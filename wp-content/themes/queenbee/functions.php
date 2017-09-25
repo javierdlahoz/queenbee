@@ -249,6 +249,6 @@ function get_read_more_link() {
 add_action('genesis_after_header','add_somepic');
 function add_somepic(){
 if(is_front_page()){
-echo '<img src="https://www.queenbeefundraising.com/wp-content/uploads/2016/09/Heroimagefinal.png" style="vertical-align:middle;width:100%;" />';
+//echo '<img src="https://www.queenbeefundraising.com/wp-content/uploads/2016/09/Heroimagefinal.png" style="vertical-align:middle;width:100%;" />';
 }
 }
