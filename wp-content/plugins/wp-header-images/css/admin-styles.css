@@ -1,0 +1,133 @@
+@charset "utf-8";
+
+/* CSS Document */
+.wphi .hide{
+	display:none;
+}
+.wphi .head_area{
+	clear:both;
+	position:relative;
+}
+.wphi .head_area > a {
+    cursor: pointer;
+    font-size: 14px;
+    position: absolute;
+    right: 0;
+}
+.wphi p.submit{
+	float:right;
+	clear:both;
+}
+.wphi h2 {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 19px;
+    padding: 9px 15px 4px 0;
+}
+.wphi h2 span.dashicons{
+	font-size:30px;
+	margin-right:16px;
+}
+
+
+.wphi .wphi_settings{
+	padding:0 0 0 4px;
+}
+.wphi .wphi_settings > h3{
+	cursor:pointer;	
+	
+}
+
+.wphi .wphi_settings > h3 span.dashicons{
+	margin-right:4px;
+}
+.wphi .wphi_settings > ul.menu-class{
+	
+}
+
+.wphi .wphi_settings > ul.menu-class > li > div.banner_wrapper {
+    background-size: 100% auto !important;
+    border: 1px dashed #fff;
+    cursor: pointer;
+    min-height: 160px;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+	position:relative;
+}
+.wphi .wphi_settings > ul.menu-class > li > h4{
+	font-size:14px;
+}
+.wphi .wphi_settings > ul.menu-class > li > div.banner_wrapper span.dashicons{
+	font-size:60px;
+    position: absolute;
+	color: #006799 ;
+}
+
+.wphi .wphi_settings > ul.menu-class > li > div.banner_wrapper label {
+    color: #006799 ;
+    display: block;
+    font-size: 30px;
+    margin: 6% auto;
+}
+.wphi .wphi_cm{
+	font-size:30px;
+	text-align:center;
+	height:100px;
+	width:100%;
+}
+.wphi .wphi_cm a{
+	font-size:26px;
+}
+
+.wphi ul.wphi_banners li > a {
+    background-color: #006799;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    float: right;
+    font-size: 12px;
+    height: 18px;
+    margin: 10px 0 0;
+    padding: 4px 14px;
+    text-align: center;
+    width: 60px;
+}
+.wphi li > a:hover {
+	background-color:red;
+	color:#fff;
+}
+.wphi pre {
+    background-color: #fff;
+    border-color: #006799;
+    border-style: solid;
+    border-width: 1px 2px;
+    color: #006799;
+    font-size: 14px;
+    padding: 0 0 20px;
+    width: 100%;
+}
+.wphi pre > *{
+	margin: 2px 30px;
+}
+
+.wphi pre > b {
+    background-color: #006799;
+    color: #fff;
+    display: block;
+    font-size: 23px;
+    margin: 0;
+    padding: 28px 0 28px 28px;
+}
+
+.wphi pre ol {
+    color: #006799;
+    list-style: inside none decimal;
+
+}
+.wphi pre ol li span{
+	width:50%;
+	display:block;
+	padding:20px;
+	
+}

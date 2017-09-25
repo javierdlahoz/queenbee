@@ -1,0 +1,1066 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-16 15:24+0530\n"
+"PO-Revision-Date: 2017-02-16 15:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: Tech-Banker <support@tech-banker.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:10
+msgid "Gallery Type"
+msgstr "Tipo de Galeria"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:12
+msgid "Albums with Images"
+msgstr "Álbuns com imagens"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:13
+msgid "Only Images"
+msgstr "Somente imagens"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:17
+msgid "Album Format"
+msgstr "Formato do Álbum"
+
+#: front_views/gallery-bank-shortcode.php:25
+msgid "Choose Type"
+msgstr "Escolha o Tipo"
+
+#: front_views/gallery-bank-shortcode.php:33
+msgid "Choose Albums"
+msgstr "Por favor Escolha"
+
+#: front_views/gallery-bank-shortcode.php:50
+msgid "Choose Album"
+msgstr "Por favor Escolha"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:85
+msgid "Gallery Format"
+msgstr "Formato da Galeria"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:95
+msgid "Text Format"
+msgstr "Formato do Texto"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:105 views/album-sorting.php:190
+msgid "Albums in Row"
+msgstr "Álbuns em Fila"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:109 views/album-preview.php:50
+#: views/images-sorting.php:240
+msgid "Images in Row"
+msgstr "Imagens em Fila"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:114
+msgid "Animation Effects"
+msgstr "Efeitos de Animação"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:119
+msgid "Special Effects"
+msgstr "Efeitos especiais"
+
+#: front_views/gallery-bank-shortcode.php:130
+msgid "Display Images"
+msgstr "Purgar Imagens e Álbuns"
+
+#: front_views/gallery-bank-shortcode.php:136
+msgid "Sort By"
+msgstr "Ordenar Por"
+
+#: front_views/gallery-bank-shortcode.php:148
+msgid "No. of Images"
+msgstr "Imagens em Fila"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:152
+msgid "Show Responsive Gallery"
+msgstr "Mostre Galeria reactiva ao tamanho"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:154
+msgid "Show Album Title"
+msgstr "Mostre título do Álbum"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:159
+msgid "Insert Album"
+msgstr "Inserir Álbum"
+
+# @ gallery-bank
+#: front_views/gallery-bank-shortcode.php:160
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: front_views/gallery-bank-shortcode.php:340
+msgid "Enter number of images you want to display."
+msgstr "Digite o número de imagens que você deseja exibir."
+
+#: gallery-bank.php:137 gallery-bank.php:213 gallery-bank.php:291
+msgid "<img src=\""
+msgstr "<img src=\""
+
+#: gallery-bank.php:139 gallery-bank.php:215 gallery-bank.php:293
+msgid "/wp-admin/admin.php?page=gallery_bank"
+msgstr "/wp-admin/admin.php?page=gallery_bank"
+
+# @ gallery-bank
+#: gallery-bank.php:146 gallery-bank.php:222 gallery-bank.php:300
+#: lib/gallery-bank-class.php:24 lib/gallery-bank-class.php:41
+#: lib/gallery-bank-class.php:58 views/header.php:305 views/header.php:319
+#: views/header.php:333
+msgid "Dashboard"
+msgstr "Painel de instrumentos"
+
+#: gallery-bank.php:153 gallery-bank.php:229 gallery-bank.php:307
+#: lib/gallery-bank-class.php:25 lib/gallery-bank-class.php:42
+#: lib/gallery-bank-class.php:59 views/dashboard.php:339 views/header.php:306
+#: views/header.php:320 views/header.php:334
+msgid "Short-Codes"
+msgstr "Códigos curtos"
+
+# @ gallery-bank
+#: gallery-bank.php:160 gallery-bank.php:236 gallery-bank.php:314
+#: lib/gallery-bank-class.php:26 lib/gallery-bank-class.php:43
+#: lib/gallery-bank-class.php:60 views/header.php:307 views/header.php:321
+#: views/header.php:335
+msgid "Album Sorting"
+msgstr "Ordem de saída do Álbum"
+
+# @ gallery-bank
+#: gallery-bank.php:167 gallery-bank.php:243 gallery-bank.php:321
+#: lib/gallery-bank-class.php:27 lib/gallery-bank-class.php:44
+#: lib/gallery-bank-class.php:61 views/header.php:308 views/header.php:322
+#: views/header.php:336 views/settings.php:276
+msgid "Global Settings"
+msgstr "Definições Gerais"
+
+#: gallery-bank.php:174 gallery-bank.php:250 gallery-bank.php:328
+#: lib/gallery-bank-class.php:28 lib/gallery-bank-class.php:45
+#: lib/gallery-bank-class.php:62 views/automatic-plugin-update.php:28
+#: views/automatic-plugin-update.php:32
+msgid "Plugin Updates"
+msgstr "Atualizações Plugin"
+
+#: gallery-bank.php:180 gallery-bank.php:257 gallery-bank.php:335
+#: lib/gallery-bank-class.php:29 lib/gallery-bank-class.php:46
+#: lib/gallery-bank-class.php:63 views/gallery-feedback.php:34
+msgid "Feature Requests"
+msgstr "Feature Requests"
+
+# @ gallery-bank
+#: gallery-bank.php:186 gallery-bank.php:264 gallery-bank.php:342
+#: lib/gallery-bank-class.php:30 lib/gallery-bank-class.php:47
+#: lib/gallery-bank-class.php:64 views/gallery-bank-system-report.php:29
+#: views/header.php:309 views/header.php:323
+msgid "System Status"
+msgstr "Estado do Sistema"
+
+#: gallery-bank.php:193 gallery-bank.php:271 gallery-bank.php:349
+#: lib/gallery-bank-class.php:31 lib/gallery-bank-class.php:48
+#: lib/gallery-bank-class.php:65 views/header.php:197 views/header.php:310
+#: views/header.php:324 views/header.php:337
+msgid "Recommendations"
+msgstr "recomendações"
+
+#: gallery-bank.php:200 gallery-bank.php:278 gallery-bank.php:356
+#: lib/gallery-bank-class.php:32 lib/gallery-bank-class.php:49
+#: lib/gallery-bank-class.php:66 views/header.php:311 views/header.php:325
+#: views/header.php:338 views/purchase_pro_version.php:29
+msgid "Premium Editions"
+msgstr "prémio as edições"
+
+#: gallery-bank.php:207 gallery-bank.php:285 gallery-bank.php:363
+#: lib/gallery-bank-class.php:33 lib/gallery-bank-class.php:50
+#: lib/gallery-bank-class.php:67 views/header.php:202 views/header.php:312
+#: views/header.php:326 views/header.php:339 views/other-services.php:29
+msgid "Our Other Services"
+msgstr "Nossos Outros Serviços"
+
+# @ gallery-bank
+#: gallery-bank.php:376
+msgid "View Gallery Bank Documentation"
+msgstr "Gallery Bank de PreçosVer Galeria Banco Documentação "
+
+#: gallery-bank.php:376
+msgid "Docs"
+msgstr "documentação"
+
+# @ gallery-bank
+#: gallery-bank.php:377
+msgid "View Gallery Bank Premium Editions"
+msgstr " vista gallery bank prémio de edição"
+
+#: gallery-bank.php:377
+msgid "Go for Premium!"
+msgstr "compra agora"
+
+# @ gallery-bank
+#: lib/add-new-album-class.php:144 views/edit-album.php:355
+#: views/edit-album.php:362
+msgid " Set as Album Cover"
+msgstr "Defina como capa do Álbum"
+
+# @ gallery-bank
+#: lib/add-new-album-class.php:146 views/edit-album.php:303
+#: views/edit-album.php:368
+msgid "Enter your Title"
+msgstr "Insira um Título"
+
+# @ gallery-bank
+#: lib/add-new-album-class.php:147 views/edit-album.php:308
+#: views/edit-album.php:373
+msgid "Enter your Description "
+msgstr "Insira uma Descrição"
+
+# @ gallery-bank
+#: lib/add-new-album-class.php:149 views/edit-album.php:314
+#: views/edit-album.php:379
+msgid "Enter your Tags"
+msgstr "Insira uma etiqueta"
+
+# @ gallery-bank
+#: lib/add-new-album-class.php:153 views/edit-album.php:400
+msgid "Delete Image"
+msgstr "Apagar imagem"
+
+# @ gallery-bank
+#: lib/gallery-bank-class.php:23 lib/gallery-bank-class.php:40
+#: lib/gallery-bank-class.php:57 views/header.php:293
+msgid "Gallery Bank"
+msgstr "Gallery Bank"
+
+# @ gallery-bank
+#: lib/gallery-bank-class.php:584
+msgid "Add Gallery using Gallery Bank"
+msgstr "Adicionar Galeria usando o Gallery Bank"
+
+# @ gallery-bank
+#: views/album-preview.php:34
+msgid "Album Preview"
+msgstr "Pré-visualização do Álbum"
+
+# @ gallery-bank
+#: views/album-preview.php:37 views/album-sorting.php:158
+#: views/edit-album.php:161 views/edit-album.php:424
+#: views/gallery-feedback.php:37 views/images-sorting.php:202
+#: views/other-services.php:33 views/purchase_pro_version.php:33
+#: views/settings.php:279 views/shortcode.php:33
+msgid "Back to Albums"
+msgstr "Voltar aos Álbuns"
+
+# @ gallery-bank
+#: views/album-preview.php:55 views/album-sorting.php:195
+#: views/images-sorting.php:244
+msgid "Please Choose"
+msgstr "Por favor Escolha"
+
+# @ gallery-bank
+#: views/album-sorting.php:154
+msgid "Re-Order Albums"
+msgstr "Re-ordenação dos Álbuns"
+
+# @ gallery-bank
+#: views/album-sorting.php:160 views/images-sorting.php:204
+msgid "Update Order"
+msgstr "Actualize ordem"
+
+# @ gallery-bank
+#: views/album-sorting.php:163 views/images-sorting.php:207
+msgid "Sorting Order has been updated."
+msgstr "Ordem de saída foi actualizada."
+
+#: views/album-sorting.php:275 views/dashboard.php:487 views/dashboard.php:491
+#: views/dashboard.php:495 views/edit-album.php:617 views/edit-album.php:637
+#: views/images-sorting.php:308
+msgid "This feature is only available in Premium Editions!"
+msgstr "Esta funcionalidade só está disponível em versão premium paga!"
+
+# @ gallery-bank
+#: views/automatic-plugin-update.php:35 views/settings.php:752
+#: views/settings.php:760 views/settings.php:1170 views/settings.php:1178
+#: views/settings.php:1196 views/settings.php:1203 views/settings.php:1221
+#: views/settings.php:1228 views/settings.php:1245 views/settings.php:1252
+#: views/settings.php:1360 views/settings.php:1367 views/settings.php:1400
+#: views/settings.php:1408 views/settings.php:1451 views/settings.php:1459
+msgid "Enable"
+msgstr "Activar"
+
+# @ gallery-bank
+#: views/automatic-plugin-update.php:36 views/settings.php:755
+#: views/settings.php:763 views/settings.php:1173 views/settings.php:1181
+#: views/settings.php:1198 views/settings.php:1206 views/settings.php:1223
+#: views/settings.php:1230 views/settings.php:1247 views/settings.php:1254
+#: views/settings.php:1362 views/settings.php:1370 views/settings.php:1403
+#: views/settings.php:1411 views/settings.php:1454 views/settings.php:1462
+msgid "Disable"
+msgstr "Desative"
+
+#: views/dashboard.php:290 views/edit-album.php:203
+#, php-format
+msgid ""
+"<b>Notice:</b> Your server allows you to upload <b>%s</b> files of maximum "
+"total <b>%s</b> bytes and allows <b>%s</b> seconds to complete."
+msgstr ""
+
+#: views/dashboard.php:291 views/edit-album.php:204
+msgid ""
+"<br />If your request exceeds these limitations, it will fail, probably "
+"without an errormessage."
+msgstr ""
+
+#: views/dashboard.php:292 views/edit-album.php:205
+msgid ""
+"<br />Additionally your hosting provider may have set other limitations on "
+"uploading files."
+msgstr ""
+
+#: views/dashboard.php:303
+msgid "Gallery Bank Dashboard"
+msgstr "Gallery Bank painel de instrumentos"
+
+# @ gallery-bank
+#: views/dashboard.php:314
+msgid "Add New Album"
+msgstr "Adicionar Novo Álbum"
+
+# @ gallery-bank
+#: views/dashboard.php:320
+msgid "Delete All Albums"
+msgstr "Excluir todos os Álbuns"
+
+# @ gallery-bank
+#: views/dashboard.php:321
+msgid "Purge Images & Albums"
+msgstr "Purgar Imagens e Álbuns"
+
+# @ gallery-bank
+#: views/dashboard.php:322
+msgid "Restore Factory Settings"
+msgstr "Restaurar configurações de fábrica"
+
+# @ gallery-bank
+#: views/dashboard.php:329
+msgid "Existing Albums Overview"
+msgstr "Visão geral dos Álbuns existentes"
+
+# @ gallery-bank
+#: views/dashboard.php:335 views/edit-album.php:262
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+# @ gallery-bank
+#: views/dashboard.php:336
+msgid "Title"
+msgstr "Título"
+
+# @ gallery-bank
+#: views/dashboard.php:337
+msgid "Total Images"
+msgstr "Total das Imagens"
+
+#: views/dashboard.php:338
+msgid "Date"
+msgstr "data"
+
+# @ gallery-bank
+#: views/dashboard.php:403
+msgid "Edit Album"
+msgstr "Editar Álbum"
+
+# @ gallery-bank
+#: views/dashboard.php:408 views/images-sorting.php:198
+msgid "Re-Order Images"
+msgstr " Re-ordenar imagens"
+
+# @ gallery-bank
+#: views/dashboard.php:413
+msgid "Preview Album"
+msgstr "Pré-visualização do Álbum"
+
+# @ gallery-bank
+#: views/dashboard.php:418
+msgid "Delete Album"
+msgstr "Apagar Álbum"
+
+# @ gallery-bank
+#: views/dashboard.php:474
+msgid "Are you sure you want to delete this Album?"
+msgstr "Tem certeza de que deseja excluir este álbum?"
+
+# @ gallery-bank
+#: views/edit-album.php:158
+msgid "Album"
+msgstr "álbum"
+
+# @ gallery-bank
+#: views/edit-album.php:162 views/edit-album.php:423
+msgid "Save Album"
+msgstr "Salvar Álbum"
+
+# @ gallery-bank
+#: views/edit-album.php:166
+msgid "Album Saved. Kindly wait for the redirect to happen."
+msgstr "Álbum Guardar. Por favor, aguarde o redirecionamento para acontecer."
+
+# @ gallery-bank
+#: views/edit-album.php:173
+msgid "Album Details"
+msgstr "Detalhes do Álbum"
+
+# @ gallery-bank
+#: views/edit-album.php:177
+msgid "Album Title"
+msgstr "Título do Álbum "
+
+# @ gallery-bank
+#: views/edit-album.php:182
+msgid "Enter your Album Title"
+msgstr "Insira o Título do Álbum "
+
+# @ gallery-bank
+#: views/edit-album.php:189
+msgid "Description"
+msgstr "Descrição"
+
+# @ gallery-bank
+#: views/edit-album.php:213
+msgid "Upload Images"
+msgstr "Fazer upload de imagens"
+
+# @ gallery-bank
+#: views/edit-album.php:216
+msgid "Your browser doesn\"t have Flash, Silverlight or HTML5 support."
+msgstr "O seu navegador não tem o Flash, Silverlight ou suporte HTML5."
+
+# @ gallery-bank
+#: views/edit-album.php:223
+msgid "Upload Videos"
+msgstr "Fazer Upload de vídeos"
+
+#: views/edit-album.php:224 views/edit-album.php:269 views/settings.php:288
+#: views/settings.php:504 views/settings.php:734 views/settings.php:845
+#: views/settings.php:944 views/settings.php:1266 views/settings.php:1382
+#: views/settings.php:1433 views/settings.php:1485
+msgid " (Available in Premium Editions)"
+msgstr "(Disponível nas versões Premium Editions)"
+
+# @ gallery-bank
+#: views/edit-album.php:229
+msgid "Video Url"
+msgstr "Url do vídeo"
+
+# @ gallery-bank
+#: views/edit-album.php:233
+msgid "Enter your Video Url"
+msgstr "insira o url do seu vídeo"
+
+# @ gallery-bank
+#: views/edit-album.php:239
+msgid "Upload Video"
+msgstr "Fazer upload de Vídeo"
+
+# @ gallery-bank
+#: views/edit-album.php:250
+msgid "Your Gallery Bank Album"
+msgstr "O seu Álbum Gallery Bank"
+
+# @ gallery-bank
+#: views/edit-album.php:259
+msgid "Delete"
+msgstr "Apagar"
+
+# @ gallery-bank
+#: views/edit-album.php:265
+msgid "Title & Description"
+msgstr "Título e Descrição"
+
+# @ gallery-bank
+#: views/edit-album.php:268
+msgid "Tags (comma separated list)"
+msgstr "Etiquetas (lista separada por vírgula)"
+
+# @ gallery-bank
+#: views/edit-album.php:272
+msgid "Url to Redirect on click of an Image"
+msgstr "Url para redirecionar, no clique de uma imagem"
+
+# @ gallery-bank
+#: views/edit-album.php:324
+msgid "Delete Video"
+msgstr "Apagar vídeo"
+
+# @ gallery-bank
+#: views/edit-album.php:604
+msgid "Are you sure you want to delete this Image?"
+msgstr "Tem certeza de que quer apagar esta imagem?"
+
+# @ gallery-bank
+#: views/gallery-bank-system-report.php:32
+msgid "Get System Report"
+msgstr "Ver relatório do Sistema"
+
+# @ gallery-bank
+#: views/gallery-bank-system-report.php:36
+msgid "Close System Report"
+msgstr "Fechar Relatório do Sistema"
+
+#: views/gallery-feedback.php:41
+msgid "Email has been sent successfully."
+msgstr "E-mail foi enviado com sucesso."
+
+#: views/gallery-feedback.php:48 views/gallery-feedback.php:64
+msgid "Feature Requests / Suggestions"
+msgstr "Pedidos de funcionalidades / Sugestões"
+
+#: views/gallery-feedback.php:52
+msgid "Name"
+msgstr "nome"
+
+#: views/gallery-feedback.php:54
+msgid "Enter your Name"
+msgstr "Insira uma etiqueta"
+
+#: views/gallery-feedback.php:58
+msgid "Email Id"
+msgstr "Identificação do email"
+
+#: views/gallery-feedback.php:60
+msgid "Enter your Email Address"
+msgstr "Insira uma Descrição"
+
+#: views/gallery-feedback.php:66
+msgid "Enter your Feature Requests / Suggestions"
+msgstr "Insira suas solicitações de recursos / Sugestões"
+
+#: views/gallery-feedback.php:71
+msgid "Send"
+msgstr "enviam"
+
+#: views/header.php:59
+#, php-format
+msgid ""
+"Based on your server memory limit you should not upload images larger then "
+"<strong>%d x %d (%2.1f MP)</strong>"
+msgstr ""
+
+#: views/header.php:134
+msgid "Get Started"
+msgstr "obter começado"
+
+#: views/header.php:137
+msgid "Watch Gallery Video!"
+msgstr "Veja galería Vídeo!"
+
+#: views/header.php:141
+msgid "read documentation here"
+msgstr "ler a documentação aqui"
+
+#: views/header.php:146
+msgid "Go Premium"
+msgstr "comprar prémio"
+
+#: views/header.php:150
+msgid "Features"
+msgstr "funcionalidades"
+
+#: views/header.php:155
+msgid "Online Demos"
+msgstr "Demonstração online de"
+
+#: views/header.php:160
+msgid "Pricing Plans"
+msgstr "Planos de preços premium"
+
+#: views/header.php:167
+msgid "Knowledge Base"
+msgstr "base de Conhecimento"
+
+#: views/header.php:172
+msgid "Support Forum"
+msgstr "Fórum de Suporte"
+
+#: views/header.php:177
+msgid "FAQ's"
+msgstr "Perguntas Freqüentes"
+
+#: views/header.php:182
+msgid "Renew Premium Support"
+msgstr "prémio as edições"
+
+#: views/header.php:188
+msgid "More Actions"
+msgstr "mais ações"
+
+#: views/header.php:192
+msgid "Plugin Customization"
+msgstr "Personalização plugin de"
+
+#: views/header.php:226 views/header.php:257
+msgid ""
+"There is a serious misconfiguration in your servers PHP config. Function "
+"imagecreatefromjpeg() does not exist. You will encounter problems when "
+"uploading photos and not be able to generate thumbnail images. Ask your "
+"hosting provider to add GD support with a minimal version 1.8."
+msgstr ""
+
+#: views/header.php:232 views/header.php:237 views/header.php:263
+#: views/header.php:268
+msgid "unknown"
+msgstr ""
+
+#: views/purchase_pro_version.php:38
+msgid "WP Gallery Bank is an one time Investment. Its Worth it!"
+msgstr "WP Gallery Bank é um investimento de uma vez. Sua pena!"
+
+#: views/recommended-plugins.php:63
+#, php-format
+msgid "%1$s rating based on %2$s rating"
+msgid_plural "%1$s rating based on %2$s ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/recommended-plugins.php:67
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: views/recommended-plugins.php:135
+msgid "More Details"
+msgstr ""
+
+#: views/recommended-plugins.php:146
+msgid "Install Now"
+msgstr ""
+
+#: views/recommended-plugins.php:153
+msgid "Update Now"
+msgstr ""
+
+#: views/recommended-plugins.php:158
+msgctxt "plugin"
+msgid "Installed"
+msgstr ""
+
+#: views/recommended-plugins.php:275
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/recommended-plugins.php:281
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+#: views/recommended-plugins.php:285
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: views/recommended-plugins.php:289
+msgid "Compatible with your version of WordPress"
+msgstr ""
+
+# @ gallery-bank
+#: views/settings.php:280
+msgid "Update Settings"
+msgstr "Actualize as configurações"
+
+# @ gallery-bank
+#: views/settings.php:287
+msgid "Thumbnail Settings"
+msgstr "Configurações das miniaturas"
+
+# @ gallery-bank
+#: views/settings.php:299
+msgid "Thumbnail Size"
+msgstr "Tamanho das miniaturas"
+
+# @ gallery-bank
+#: views/settings.php:306 views/settings.php:314 views/settings.php:522
+#: views/settings.php:530
+msgid "Original"
+msgstr "Original"
+
+# @ gallery-bank
+#: views/settings.php:309 views/settings.php:317 views/settings.php:525
+#: views/settings.php:533
+msgid "Custom"
+msgstr "Personalizado"
+
+# @ gallery-bank
+#: views/settings.php:326 views/settings.php:542
+msgid "Width"
+msgstr "Largura"
+
+# @ gallery-bank
+#: views/settings.php:336 views/settings.php:552
+msgid "Height"
+msgstr "Altura"
+
+# @ gallery-bank
+#: views/settings.php:348 views/settings.php:563 views/settings.php:985
+msgid "Opacity"
+msgstr "Opacidade"
+
+# @ gallery-bank
+#: views/settings.php:360 views/settings.php:575 views/settings.php:996
+msgid "Border Size"
+msgstr "Tamanho da margem"
+
+# @ gallery-bank
+#: views/settings.php:371 views/settings.php:587 views/settings.php:1007
+msgid "Border Radius"
+msgstr "Raio da margem"
+
+# @ gallery-bank
+#: views/settings.php:382 views/settings.php:599 views/settings.php:1032
+msgid "Border Color"
+msgstr "Cor da margem"
+
+# @ gallery-bank
+#: views/settings.php:396
+msgid "Margin Between Images"
+msgstr "Margem entre as imagens"
+
+# @ gallery-bank
+#: views/settings.php:406 views/settings.php:633 views/settings.php:1018
+msgid "Text Color"
+msgstr "Cor do texto"
+
+# @ gallery-bank
+#: views/settings.php:420 views/settings.php:650 views/settings.php:1092
+msgid "Text-Align"
+msgstr "Alinhar do texto"
+
+# @ gallery-bank
+#: views/settings.php:434 views/settings.php:664 views/settings.php:801
+#: views/settings.php:1106 views/settings.php:1314
+msgid "Font-Family"
+msgstr "Font-Family"
+
+# @ gallery-bank
+#: views/settings.php:457 views/settings.php:687 views/settings.php:1129
+msgid "Heading Font-Size"
+msgstr "Fonte de texto do cabeçalho"
+
+# @ gallery-bank
+#: views/settings.php:474 views/settings.php:704 views/settings.php:1146
+msgid "Text Font-Size"
+msgstr "Tamanho da fonte de texto"
+
+# @ gallery-bank
+#: views/settings.php:491 views/settings.php:721
+msgid "Description Length"
+msgstr "Comprimento da descrição"
+
+# @ gallery-bank
+#: views/settings.php:503
+msgid "Album Cover Settings"
+msgstr "Configurações da capa do Álbum "
+
+# @ gallery-bank
+#: views/settings.php:515
+msgid "Cover Size"
+msgstr "Tamanho da capa"
+
+# @ gallery-bank
+#: views/settings.php:613
+msgid "Margin Between Albums"
+msgstr "Margem entre os Álbuns"
+
+# @ gallery-bank
+#: views/settings.php:623
+msgid "Text for Album Click"
+msgstr "Texto para clique  do Álbum "
+
+# @ gallery-bank
+#: views/settings.php:733
+msgid "Filter Settings"
+msgstr "Filtro das configurações"
+
+# @ gallery-bank
+#: views/settings.php:745
+msgid "Filters"
+msgstr "Filtros"
+
+# @ gallery-bank
+#: views/settings.php:773
+msgid "Filter Color"
+msgstr "Filtro de cor"
+
+# @ gallery-bank
+#: views/settings.php:787
+msgid "Filter Text Color"
+msgstr "Filtro da cor do texto"
+
+# @ gallery-bank
+#: views/settings.php:824 views/settings.php:1337
+msgid "Font-Size"
+msgstr "Tamanho da fone"
+
+# @ gallery-bank
+#: views/settings.php:844
+msgid "Roles & Capabilities"
+msgstr "Papéis e Capacidades"
+
+# @ gallery-bank
+#: views/settings.php:856
+msgid "Privileges for Admin"
+msgstr "Privilégios para Admin"
+
+# @ gallery-bank
+#: views/settings.php:860 views/settings.php:876 views/settings.php:892
+#: views/settings.php:909 views/settings.php:927
+msgid "Full Control"
+msgstr "Controle total"
+
+# @ gallery-bank
+#: views/settings.php:863 views/settings.php:879 views/settings.php:895
+#: views/settings.php:912 views/settings.php:930
+msgid "Read"
+msgstr "Ler"
+
+# @ gallery-bank
+#: views/settings.php:866 views/settings.php:882 views/settings.php:898
+#: views/settings.php:915 views/settings.php:933
+msgid "Write"
+msgstr "Escrever"
+
+# @ gallery-bank
+#: views/settings.php:872
+msgid "Privileges for Editor"
+msgstr "Privilégios para Editor"
+
+# @ gallery-bank
+#: views/settings.php:888
+msgid "Privileges for Author"
+msgstr "Privilégios para Autor"
+
+# @ gallery-bank
+#: views/settings.php:904
+msgid "Privileges for Contributor"
+msgstr "Privilégios para Contribuidor"
+
+# @ gallery-bank
+#: views/settings.php:921
+msgid "Privileges for Subscriber"
+msgstr "Privilégios para Assinante"
+
+# @ gallery-bank
+#: views/settings.php:943
+msgid "Lightbox Settings"
+msgstr "Configurações Lightbox"
+
+# @ gallery-bank
+#: views/settings.php:955
+msgid "Lightbox Type"
+msgstr "Tipo de Lightbox"
+
+# @ gallery-bank
+#: views/settings.php:1046
+msgid "Inline Background"
+msgstr "Inline Background"
+
+# @ gallery-bank
+#: views/settings.php:1060
+msgid "Overlay Background"
+msgstr "Overlay Background"
+
+# @ gallery-bank
+#: views/settings.php:1074
+msgid "Fade In Time"
+msgstr "Tempo de entrada em desvanecimento "
+
+# @ gallery-bank
+#: views/settings.php:1083
+msgid "Fade Out Time"
+msgstr "Tempo de saída em desvanecimento"
+
+# @ gallery-bank
+#: views/settings.php:1163
+msgid "Facebook Comments"
+msgstr "Comentários do Facebook "
+
+# @ gallery-bank
+#: views/settings.php:1190
+msgid "Social Sharing"
+msgstr "Partilha nas redes sociais"
+
+# @ gallery-bank
+#: views/settings.php:1215
+msgid "Image Title"
+msgstr "Título de Imagem"
+
+# @ gallery-bank
+#: views/settings.php:1239
+msgid "Image Description"
+msgstr "Descrição da Imagem"
+
+# @ gallery-bank
+#: views/settings.php:1265
+msgid "Front - End Layout Settings"
+msgstr "Front - End Layout Settings"
+
+# @ gallery-bank
+#: views/settings.php:1277
+msgid "Text for Back Button"
+msgstr "Texto para Botão Voltar"
+
+# @ gallery-bank
+#: views/settings.php:1287
+msgid "Button Color"
+msgstr "Cor do botão"
+
+# @ gallery-bank
+#: views/settings.php:1300
+msgid "Button Text Color"
+msgstr "Cor do texto do Botão"
+
+# @ gallery-bank
+#: views/settings.php:1354
+msgid "Album Seperator"
+msgstr "Separador de Álbuns"
+
+# @ gallery-bank
+#: views/settings.php:1381
+msgid "Pagination Settings for Images"
+msgstr "Configurações de paginação para Imagens"
+
+# @ gallery-bank
+#: views/settings.php:1393
+msgid "Paging"
+msgstr "Paginação"
+
+# @ gallery-bank
+#: views/settings.php:1420
+msgid "No. of Images Per Page "
+msgstr "N. de imagens por página"
+
+# @ gallery-bank
+#: views/settings.php:1432
+msgid "Slide Show Settings"
+msgstr "Configurações do Slide Show"
+
+# @ gallery-bank
+#: views/settings.php:1444
+msgid "Auto Play"
+msgstr "Auto Play"
+
+# @ gallery-bank
+#: views/settings.php:1471
+msgid "Interval"
+msgstr "intervalo"
+
+# @ gallery-bank
+#: views/settings.php:1484
+msgid "Language Direction Settings"
+msgstr "Language Direction Settings"
+
+# @ gallery-bank
+#: views/settings.php:1496
+msgid "Language Direction"
+msgstr "Language Direction"
+
+#: views/settings.php:1653
+msgid "These features are only available in Premium Editions!"
+msgstr "Esses recursos só estão disponíveis em edições Premium!"
+
+# @ gallery-bank
+#: views/shortcode.php:29
+msgid "Gallery Bank Short-Codes"
+msgstr "Gallery Bank Códigos-curtas"
+
+# @ gallery-bank
+#~ msgid "Insert Gallery Bank Shortcode"
+#~ msgstr "Inserir shortcode do Gallery Bank"
+
+# @ gallery-bank
+#~ msgid "Select an album below to add it to your post or page."
+#~ msgstr ""
+#~ "Seleccione um dos álbuns abaixo para adicioná-lo ao seu artigo ou página."
+
+# @ gallery-bank
+#~ msgid "Select Album Format"
+#~ msgstr "Seleccione formato do Álbum"
+
+# @ gallery-bank
+#~ msgid "Select Album"
+#~ msgstr "Seleccione Álbum"
+
+# @ gallery-bank
+#~ msgid "Select an Album"
+#~ msgstr "Seleccione um Álbum"
+
+# @ gallery-bank
+#~ msgid "Select Gallery Format "
+#~ msgstr "Seleccione Formato da Galeria "
+
+# @ gallery-bank
+#~ msgid "Image Width"
+#~ msgstr "Largura de imagem"
+
+# @ gallery-bank
+#~ msgid "Select Format "
+#~ msgstr "Seleccione Formato"
+
+# @ gallery-bank
+#~ msgid "Please select an Album"
+#~ msgstr "Por favor seleccione um Álbum"
+
+# @ gallery-bank
+#~ msgid "Please select an Album Format"
+#~ msgstr "Por favor, seleccione um formato de Álbum"
+
+# @ gallery-bank
+#~ msgid "Please select a Gallery Images Format"
+#~ msgstr "Por favor seleccione um formato de imagens para a Galeria"
+
+# @ gallery-bank
+#~ msgid "Please select a Text Format for the Gallery"
+#~ msgstr "Por favor seleccione um formato de texto para a Galeria"
+
+#~ msgid "This feature is only available in Paid Premium Version!"
+#~ msgstr "Esta funcionalidade só está disponível em versão premium paga!"
+
+#~ msgid " (Available in Premium Versions)"
+#~ msgstr "(Disponível em versões premium)"
+
+# @ default
+#~ msgid "Default"
+#~ msgstr "predefinição"
+
+#~ msgid "Premium Pricing Plans"
+#~ msgstr "Planos de preços premium"
+
+#~ msgid "Detailed Features"
+#~ msgstr "Recursos detalhados"
+
+#~ msgid "This Feature is only available in Paid Premium Version!"
+#~ msgstr "Esta funcionalidade só está disponível em versão premium paga!"
+
+#~ msgid "Purchase Pro Version"
+#~ msgstr "Compre versão Pro"

@@ -1,0 +1,920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery-Bank\n"
+"POT-Creation-Date: 2017-02-16 15:26+0530\n"
+"PO-Revision-Date: 2017-02-16 15:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: Tech-Banker <support@tech-banker.com>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: front_views/gallery-bank-shortcode.php:10
+msgid "Gallery Type"
+msgstr "Galeri Lloji"
+
+#: front_views/gallery-bank-shortcode.php:12
+msgid "Albums with Images"
+msgstr "Albumet me imazhet"
+
+#: front_views/gallery-bank-shortcode.php:13
+msgid "Only Images"
+msgstr "Vetmet imazhe"
+
+#: front_views/gallery-bank-shortcode.php:17
+msgid "Album Format"
+msgstr "Formati e albumeve"
+
+#: front_views/gallery-bank-shortcode.php:25
+msgid "Choose Type"
+msgstr "Ju lutemi Zgjidhni"
+
+#: front_views/gallery-bank-shortcode.php:33
+msgid "Choose Albums"
+msgstr "Ju lutemi Zgjidhni"
+
+#: front_views/gallery-bank-shortcode.php:50
+msgid "Choose Album"
+msgstr "Ju lutemi Zgjidhni"
+
+#: front_views/gallery-bank-shortcode.php:85
+msgid "Gallery Format"
+msgstr "Galeri Formati"
+
+#: front_views/gallery-bank-shortcode.php:95
+msgid "Text Format"
+msgstr "Formati Tekst i"
+
+#: front_views/gallery-bank-shortcode.php:105 views/album-sorting.php:190
+msgid "Albums in Row"
+msgstr "Albume në Rresht"
+
+#: front_views/gallery-bank-shortcode.php:109 views/album-preview.php:50
+#: views/images-sorting.php:240
+msgid "Images in Row"
+msgstr "Imazhe në Rresht"
+
+#: front_views/gallery-bank-shortcode.php:114
+msgid "Animation Effects"
+msgstr "Animacion - Efektet "
+
+#: front_views/gallery-bank-shortcode.php:119
+msgid "Special Effects"
+msgstr "të veçanta Efektet"
+
+#: front_views/gallery-bank-shortcode.php:130
+msgid "Display Images"
+msgstr "Imazhe Purge dhe Albume"
+
+#: front_views/gallery-bank-shortcode.php:136
+msgid "Sort By"
+msgstr "Rendit sipas:"
+
+#: front_views/gallery-bank-shortcode.php:148
+msgid "No. of Images"
+msgstr "Imazhe në Rresht"
+
+#: front_views/gallery-bank-shortcode.php:152
+msgid "Show Responsive Gallery"
+msgstr "Trego-përgjegjshëm Galeria"
+
+#: front_views/gallery-bank-shortcode.php:154
+msgid "Show Album Title"
+msgstr "Trego e albumeve Titulli i"
+
+#: front_views/gallery-bank-shortcode.php:159
+msgid "Insert Album"
+msgstr "Fut e albumeve"
+
+#: front_views/gallery-bank-shortcode.php:160
+msgid "Cancel"
+msgstr "Anuloje"
+
+#: front_views/gallery-bank-shortcode.php:340
+msgid "Enter number of images you want to display."
+msgstr "Shkruani numrin e imazheve që ju dëshironi për të shfaqur."
+
+#: gallery-bank.php:137 gallery-bank.php:213 gallery-bank.php:291
+msgid "<img src=\""
+msgstr "<img src=\""
+
+#: gallery-bank.php:139 gallery-bank.php:215 gallery-bank.php:293
+msgid "/wp-admin/admin.php?page=gallery_bank"
+msgstr "/wp-admin/admin.php?page=gallery_bank"
+
+#: gallery-bank.php:146 gallery-bank.php:222 gallery-bank.php:300
+#: lib/gallery-bank-class.php:24 lib/gallery-bank-class.php:41
+#: lib/gallery-bank-class.php:58 views/header.php:305 views/header.php:319
+#: views/header.php:333
+msgid "Dashboard"
+msgstr "Baltëpritëse"
+
+#: gallery-bank.php:153 gallery-bank.php:229 gallery-bank.php:307
+#: lib/gallery-bank-class.php:25 lib/gallery-bank-class.php:42
+#: lib/gallery-bank-class.php:59 views/dashboard.php:339 views/header.php:306
+#: views/header.php:320 views/header.php:334
+msgid "Short-Codes"
+msgstr "Të shkurtër-Kodet"
+
+#: gallery-bank.php:160 gallery-bank.php:236 gallery-bank.php:314
+#: lib/gallery-bank-class.php:26 lib/gallery-bank-class.php:43
+#: lib/gallery-bank-class.php:60 views/header.php:307 views/header.php:321
+#: views/header.php:335
+msgid "Album Sorting"
+msgstr "albumeve - Renditur"
+
+#: gallery-bank.php:167 gallery-bank.php:243 gallery-bank.php:321
+#: lib/gallery-bank-class.php:27 lib/gallery-bank-class.php:44
+#: lib/gallery-bank-class.php:61 views/header.php:308 views/header.php:322
+#: views/header.php:336 views/settings.php:276
+msgid "Global Settings"
+msgstr "Cilësimet Globale"
+
+#: gallery-bank.php:174 gallery-bank.php:250 gallery-bank.php:328
+#: lib/gallery-bank-class.php:28 lib/gallery-bank-class.php:45
+#: lib/gallery-bank-class.php:62 views/automatic-plugin-update.php:28
+#: views/automatic-plugin-update.php:32
+msgid "Plugin Updates"
+msgstr "Freskimet Plugin"
+
+#: gallery-bank.php:180 gallery-bank.php:257 gallery-bank.php:335
+#: lib/gallery-bank-class.php:29 lib/gallery-bank-class.php:46
+#: lib/gallery-bank-class.php:63 views/gallery-feedback.php:34
+msgid "Feature Requests"
+msgstr "Kërkesat Tipar"
+
+#: gallery-bank.php:186 gallery-bank.php:264 gallery-bank.php:342
+#: lib/gallery-bank-class.php:30 lib/gallery-bank-class.php:47
+#: lib/gallery-bank-class.php:64 views/gallery-bank-system-report.php:29
+#: views/header.php:309 views/header.php:323
+msgid "System Status"
+msgstr "Sistemi - Statusi"
+
+#: gallery-bank.php:193 gallery-bank.php:271 gallery-bank.php:349
+#: lib/gallery-bank-class.php:31 lib/gallery-bank-class.php:48
+#: lib/gallery-bank-class.php:65 views/header.php:197 views/header.php:310
+#: views/header.php:324 views/header.php:337
+msgid "Recommendations"
+msgstr "Rekomandime"
+
+#: gallery-bank.php:200 gallery-bank.php:278 gallery-bank.php:356
+#: lib/gallery-bank-class.php:32 lib/gallery-bank-class.php:49
+#: lib/gallery-bank-class.php:66 views/header.php:311 views/header.php:325
+#: views/header.php:338 views/purchase_pro_version.php:29
+msgid "Premium Editions"
+msgstr "Botimet primit"
+
+#: gallery-bank.php:207 gallery-bank.php:285 gallery-bank.php:363
+#: lib/gallery-bank-class.php:33 lib/gallery-bank-class.php:50
+#: lib/gallery-bank-class.php:67 views/header.php:202 views/header.php:312
+#: views/header.php:326 views/header.php:339 views/other-services.php:29
+msgid "Our Other Services"
+msgstr "Shërbimet tona të tjera"
+
+#: gallery-bank.php:376
+msgid "View Gallery Bank Documentation"
+msgstr "pikëpamje Gallery Banka dokumentim"
+
+#: gallery-bank.php:376
+msgid "Docs"
+msgstr "dokumentim"
+
+#: gallery-bank.php:377
+msgid "View Gallery Bank Premium Editions"
+msgstr "pikëpamje Galeria Banka primit edicioneve "
+
+#: gallery-bank.php:377
+msgid "Go for Premium!"
+msgstr "Shkoni për primit!"
+
+#: lib/add-new-album-class.php:144 views/edit-album.php:355
+#: views/edit-album.php:362
+msgid " Set as Album Cover"
+msgstr "Cakto si Albumit Mbulo"
+
+#: lib/add-new-album-class.php:146 views/edit-album.php:303
+#: views/edit-album.php:368
+msgid "Enter your Title"
+msgstr "Shkruani Titullin tuaj"
+
+#: lib/add-new-album-class.php:147 views/edit-album.php:308
+#: views/edit-album.php:373
+msgid "Enter your Description "
+msgstr "Shkruani Përshkrimi  Juaj"
+
+#: lib/add-new-album-class.php:149 views/edit-album.php:314
+#: views/edit-album.php:379
+msgid "Enter your Tags"
+msgstr "Shkruani tuaj Fjale"
+
+#: lib/add-new-album-class.php:153 views/edit-album.php:400
+msgid "Delete Image"
+msgstr " fshini Pamjeje për"
+
+#: lib/gallery-bank-class.php:23 lib/gallery-bank-class.php:40
+#: lib/gallery-bank-class.php:57 views/header.php:293
+msgid "Gallery Bank"
+msgstr "Gallery Bank"
+
+#: lib/gallery-bank-class.php:584
+msgid "Add Gallery using Gallery Bank"
+msgstr "Shto Galeria përdorur Gallery Bank"
+
+#: views/album-preview.php:34
+msgid "Album Preview"
+msgstr "albumit Paraparje"
+
+#: views/album-preview.php:37 views/album-sorting.php:158
+#: views/edit-album.php:161 views/edit-album.php:424
+#: views/gallery-feedback.php:37 views/images-sorting.php:202
+#: views/other-services.php:33 views/purchase_pro_version.php:33
+#: views/settings.php:279 views/shortcode.php:33
+msgid "Back to Albums"
+msgstr "Mbrapsht në albume e"
+
+#: views/album-preview.php:55 views/album-sorting.php:195
+#: views/images-sorting.php:244
+msgid "Please Choose"
+msgstr "Ju lutemi Zgjidhni"
+
+#: views/album-sorting.php:154
+msgid "Re-Order Albums"
+msgstr "Të Reorder Albume"
+
+#: views/album-sorting.php:160 views/images-sorting.php:204
+msgid "Update Order"
+msgstr " për freskimin- Rendit"
+
+#: views/album-sorting.php:163 views/images-sorting.php:207
+msgid "Sorting Order has been updated."
+msgstr "klasifikim Urdhri e ka qenë është përditësuar."
+
+#: views/album-sorting.php:275 views/dashboard.php:487 views/dashboard.php:491
+#: views/dashboard.php:495 views/edit-album.php:617 views/edit-album.php:637
+#: views/images-sorting.php:308
+msgid "This feature is only available in Premium Editions!"
+msgstr "Ky tipar është në dispozicion vetëm në botimet Premium!"
+
+#: views/automatic-plugin-update.php:35 views/settings.php:752
+#: views/settings.php:760 views/settings.php:1170 views/settings.php:1178
+#: views/settings.php:1196 views/settings.php:1203 views/settings.php:1221
+#: views/settings.php:1228 views/settings.php:1245 views/settings.php:1252
+#: views/settings.php:1360 views/settings.php:1367 views/settings.php:1400
+#: views/settings.php:1408 views/settings.php:1451 views/settings.php:1459
+msgid "Enable"
+msgstr "Mundëso"
+
+#: views/automatic-plugin-update.php:36 views/settings.php:755
+#: views/settings.php:763 views/settings.php:1173 views/settings.php:1181
+#: views/settings.php:1198 views/settings.php:1206 views/settings.php:1223
+#: views/settings.php:1230 views/settings.php:1247 views/settings.php:1254
+#: views/settings.php:1362 views/settings.php:1370 views/settings.php:1403
+#: views/settings.php:1411 views/settings.php:1454 views/settings.php:1462
+msgid "Disable"
+msgstr "Çaktivizo"
+
+#: views/dashboard.php:290 views/edit-album.php:203
+#, php-format
+msgid ""
+"<b>Notice:</b> Your server allows you to upload <b>%s</b> files of maximum "
+"total <b>%s</b> bytes and allows <b>%s</b> seconds to complete."
+msgstr ""
+
+#: views/dashboard.php:291 views/edit-album.php:204
+msgid ""
+"<br />If your request exceeds these limitations, it will fail, probably "
+"without an errormessage."
+msgstr ""
+
+#: views/dashboard.php:292 views/edit-album.php:205
+msgid ""
+"<br />Additionally your hosting provider may have set other limitations on "
+"uploading files."
+msgstr ""
+
+#: views/dashboard.php:303
+msgid "Gallery Bank Dashboard"
+msgstr "Gallery Bank Të shkurtër-Kodet"
+
+#: views/dashboard.php:314
+msgid "Add New Album"
+msgstr "Shto Album i ri"
+
+#: views/dashboard.php:320
+msgid "Delete All Albums"
+msgstr "Fshini të gjitha Albume"
+
+#: views/dashboard.php:321
+msgid "Purge Images & Albums"
+msgstr "Imazhe Purge dhe Albume"
+
+#: views/dashboard.php:322
+msgid "Restore Factory Settings"
+msgstr "Rikthe Cilësimet Fabrika"
+
+#: views/dashboard.php:329
+msgid "Existing Albums Overview"
+msgstr "Albume Ekzistuese Përmbledhje për"
+
+#: views/dashboard.php:335 views/edit-album.php:262
+msgid "Thumbnail"
+msgstr "Parapamja"
+
+#: views/dashboard.php:336
+msgid "Title"
+msgstr "Titulli i"
+
+#: views/dashboard.php:337
+msgid "Total Images"
+msgstr "Totale-imazhe"
+
+#: views/dashboard.php:338
+msgid "Date"
+msgstr "Data e"
+
+#: views/dashboard.php:403
+msgid "Edit Album"
+msgstr "Ndysho albumeve"
+
+#: views/dashboard.php:408 views/images-sorting.php:198
+msgid "Re-Order Images"
+msgstr "Të Reorder imazhet"
+
+#: views/dashboard.php:413
+msgid "Preview Album"
+msgstr "Paraparje - albumeve"
+
+#: views/dashboard.php:418
+msgid "Delete Album"
+msgstr "Fshij albumeve"
+
+#: views/dashboard.php:474
+msgid "Are you sure you want to delete this Album?"
+msgstr "Jeni te sigurte qe doni te fshini kete albumeve?"
+
+#: views/edit-album.php:158
+msgid "Album"
+msgstr "albumeve"
+
+#: views/edit-album.php:162 views/edit-album.php:423
+msgid "Save Album"
+msgstr "Ruaje albumeve"
+
+#: views/edit-album.php:166
+msgid "Album Saved. Kindly wait for the redirect to happen."
+msgstr "albumeve Ruajtur. Mirësi të prisni për përcjellim të ndodhë."
+
+#: views/edit-album.php:173
+msgid "Album Details"
+msgstr "albumit Detajet"
+
+#: views/edit-album.php:177
+msgid "Album Title"
+msgstr "albumit Titulli i"
+
+#: views/edit-album.php:182
+msgid "Enter your Album Title"
+msgstr "Shkruaj tuaj Titulli i Albumit "
+
+#: views/edit-album.php:189
+msgid "Description"
+msgstr "Përshkrimi"
+
+#: views/edit-album.php:213
+msgid "Upload Images"
+msgstr "Ngarkoni Imazhe"
+
+#: views/edit-album.php:216
+msgid "Your browser doesn\"t have Flash, Silverlight or HTML5 support."
+msgstr ""
+"Shfletuesi juaj doesn 't duhet Flash, Silverlight ose HTML5 mbështetje."
+
+#: views/edit-album.php:223
+msgid "Upload Videos"
+msgstr "Ngarkoni videos"
+
+#: views/edit-album.php:224 views/edit-album.php:269 views/settings.php:288
+#: views/settings.php:504 views/settings.php:734 views/settings.php:845
+#: views/settings.php:944 views/settings.php:1266 views/settings.php:1382
+#: views/settings.php:1433 views/settings.php:1485
+msgid " (Available in Premium Editions)"
+msgstr "(Në dispozicion në botimet Premium)"
+
+#: views/edit-album.php:229
+msgid "Video Url"
+msgstr "Videove- Url"
+
+#: views/edit-album.php:233
+msgid "Enter your Video Url"
+msgstr "Shkruani Videove tuaj Url"
+
+#: views/edit-album.php:239
+msgid "Upload Video"
+msgstr "Ngarkoni- Videove"
+
+#: views/edit-album.php:250
+msgid "Your Gallery Bank Album"
+msgstr "Juaj Galeri Bank albumit"
+
+#: views/edit-album.php:259
+msgid "Delete"
+msgstr "fshini"
+
+#: views/edit-album.php:265
+msgid "Title & Description"
+msgstr "Titulli i dhe Përshkrimi"
+
+#: views/edit-album.php:268
+msgid "Tags (comma separated list)"
+msgstr "Fjale (presje listë të ndara)"
+
+#: views/edit-album.php:272
+msgid "Url to Redirect on click of an Image"
+msgstr "Url tek ridrejto mbi kliko i një Pamjeje për"
+
+#: views/edit-album.php:324
+msgid "Delete Video"
+msgstr "Fshini videove"
+
+#: views/edit-album.php:604
+msgid "Are you sure you want to delete this Image?"
+msgstr "Jeni te sigurte qe doni te fshini kete imazh?"
+
+#: views/gallery-bank-system-report.php:32
+msgid "Get System Report"
+msgstr "Bleni Sistem - Raportimi"
+
+#: views/gallery-bank-system-report.php:36
+msgid "Close System Report"
+msgstr "Mbylle-Raporti- Sistemi"
+
+#: views/gallery-feedback.php:41
+msgid "Email has been sent successfully."
+msgstr "Email është dërguar me sukses."
+
+#: views/gallery-feedback.php:48 views/gallery-feedback.php:64
+msgid "Feature Requests / Suggestions"
+msgstr "Kërkesa për veti / Sugjerime"
+
+#: views/gallery-feedback.php:52
+msgid "Name"
+msgstr "emër"
+
+#: views/gallery-feedback.php:54
+msgid "Enter your Name"
+msgstr "Shkruani Emrin Tuaj"
+
+#: views/gallery-feedback.php:58
+msgid "Email Id"
+msgstr "Email Id të"
+
+#: views/gallery-feedback.php:60
+msgid "Enter your Email Address"
+msgstr "Shkruani adresën tuaj email"
+
+#: views/gallery-feedback.php:66
+msgid "Enter your Feature Requests / Suggestions"
+msgstr "Shkruani juaj Kërkesa për veti / sugjerime"
+
+#: views/gallery-feedback.php:71
+msgid "Send"
+msgstr "Dërgoj"
+
+#: views/header.php:59
+#, php-format
+msgid ""
+"Based on your server memory limit you should not upload images larger then "
+"<strong>%d x %d (%2.1f MP)</strong>"
+msgstr ""
+
+#: views/header.php:134
+msgid "Get Started"
+msgstr " Bleni filluar"
+
+#: views/header.php:137
+msgid "Watch Gallery Video!"
+msgstr "shikojnë Galeria Video!"
+
+#: views/header.php:141
+msgid "read documentation here"
+msgstr "lexoni dokumentacionin këtu"
+
+#: views/header.php:146
+msgid "Go Premium"
+msgstr "shkoj primit"
+
+#: views/header.php:150
+msgid "Features"
+msgstr "karakteristika"
+
+#: views/header.php:155
+msgid "Online Demos"
+msgstr "në linjë popull"
+
+#: views/header.php:160
+msgid "Pricing Plans"
+msgstr "Planet e Çmimeve"
+
+#: views/header.php:167
+msgid "Knowledge Base"
+msgstr "njohuri Baza e"
+
+#: views/header.php:172
+msgid "Support Forum"
+msgstr "Mbështetje Forumi i"
+
+#: views/header.php:177
+msgid "FAQ's"
+msgstr "Pytësori-së"
+
+#: views/header.php:182
+msgid "Renew Premium Support"
+msgstr "Rinovo Mbështetje Premium"
+
+#: views/header.php:188
+msgid "More Actions"
+msgstr "Më shumë Veprimet"
+
+#: views/header.php:192
+msgid "Plugin Customization"
+msgstr " plugin të - Përshtatje"
+
+#: views/header.php:226 views/header.php:257
+msgid ""
+"There is a serious misconfiguration in your servers PHP config. Function "
+"imagecreatefromjpeg() does not exist. You will encounter problems when "
+"uploading photos and not be able to generate thumbnail images. Ask your "
+"hosting provider to add GD support with a minimal version 1.8."
+msgstr ""
+
+#: views/header.php:232 views/header.php:237 views/header.php:263
+#: views/header.php:268
+msgid "unknown"
+msgstr ""
+
+#: views/purchase_pro_version.php:38
+msgid "WP Gallery Bank is an one time Investment. Its Worth it!"
+msgstr "Wp Galeria Banka është një Investime një herë. Saj Worth ajo!"
+
+#: views/recommended-plugins.php:67
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: views/recommended-plugins.php:135
+msgid "More Details"
+msgstr ""
+
+#: views/recommended-plugins.php:146
+msgid "Install Now"
+msgstr ""
+
+#: views/recommended-plugins.php:153
+msgid "Update Now"
+msgstr ""
+
+#: views/recommended-plugins.php:281
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+#: views/recommended-plugins.php:285
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: views/recommended-plugins.php:289
+msgid "Compatible with your version of WordPress"
+msgstr ""
+
+#: views/settings.php:280
+msgid "Update Settings"
+msgstr "Për Freskimin Cilësimet"
+
+#: views/settings.php:287
+msgid "Thumbnail Settings"
+msgstr "Parapamja Cilësimet"
+
+#: views/settings.php:299
+msgid "Thumbnail Size"
+msgstr "Parapamja Madhësia"
+
+#: views/settings.php:306 views/settings.php:314 views/settings.php:522
+#: views/settings.php:530
+msgid "Original"
+msgstr "origjinali"
+
+#: views/settings.php:309 views/settings.php:317 views/settings.php:525
+#: views/settings.php:533
+msgid "Custom"
+msgstr "Me Porosi"
+
+#: views/settings.php:326 views/settings.php:542
+msgid "Width"
+msgstr "Gjerësia"
+
+#: views/settings.php:336 views/settings.php:552
+msgid "Height"
+msgstr "Lartësia"
+
+#: views/settings.php:348 views/settings.php:563 views/settings.php:985
+msgid "Opacity"
+msgstr "Tejdukshmëria"
+
+#: views/settings.php:360 views/settings.php:575 views/settings.php:996
+msgid "Border Size"
+msgstr " Kufijve -Madhësia"
+
+#: views/settings.php:371 views/settings.php:587 views/settings.php:1007
+msgid "Border Radius"
+msgstr "Rrezja e Kufijve"
+
+#: views/settings.php:382 views/settings.php:599 views/settings.php:1032
+msgid "Border Color"
+msgstr "buzët Kufijve"
+
+#: views/settings.php:396
+msgid "Margin Between Images"
+msgstr "Margjina Midis Imazhet"
+
+#: views/settings.php:406 views/settings.php:633 views/settings.php:1018
+msgid "Text Color"
+msgstr "Tekst buzët"
+
+#: views/settings.php:420 views/settings.php:650 views/settings.php:1092
+msgid "Text-Align"
+msgstr "Tekst -Drejtvendos"
+
+#: views/settings.php:434 views/settings.php:664 views/settings.php:801
+#: views/settings.php:1106 views/settings.php:1314
+msgid "Font-Family"
+msgstr "Shkronjës-Familjare"
+
+#: views/settings.php:457 views/settings.php:687 views/settings.php:1129
+msgid "Heading Font-Size"
+msgstr "Kreu Shkronjës-Madhësia"
+
+#: views/settings.php:474 views/settings.php:704 views/settings.php:1146
+msgid "Text Font-Size"
+msgstr "Tekst Shkronjës- Madhësia"
+
+#: views/settings.php:491 views/settings.php:721
+msgid "Description Length"
+msgstr "Përshkrimi- Gjatësia"
+
+#: views/settings.php:503
+msgid "Album Cover Settings"
+msgstr "Albumeve Mbulo- Cilësimet"
+
+#: views/settings.php:515
+msgid "Cover Size"
+msgstr "Mbulon- Madhësia"
+
+#: views/settings.php:613
+msgid "Margin Between Albums"
+msgstr "Margjina Midis Albume"
+
+#: views/settings.php:623
+msgid "Text for Album Click"
+msgstr "Tekst per Albumeve Kliko"
+
+#: views/settings.php:733
+msgid "Filter Settings"
+msgstr "Filtrit- Cilësimet"
+
+#: views/settings.php:745
+msgid "Filters"
+msgstr "Filtra të"
+
+#: views/settings.php:773
+msgid "Filter Color"
+msgstr "iltruar - ngjyrë"
+
+#: views/settings.php:787
+msgid "Filter Text Color"
+msgstr "Filtri - Tekst Ngjyrë "
+
+#: views/settings.php:824 views/settings.php:1337
+msgid "Font-Size"
+msgstr "Shkronjës-Madhësia"
+
+#: views/settings.php:844
+msgid "Roles & Capabilities"
+msgstr "Rolet - dhe  aftësitë"
+
+#: views/settings.php:856
+msgid "Privileges for Admin"
+msgstr "Privilegjet per Admin"
+
+#: views/settings.php:860 views/settings.php:876 views/settings.php:892
+#: views/settings.php:909 views/settings.php:927
+msgid "Full Control"
+msgstr "Kontrolli i plotë"
+
+#: views/settings.php:863 views/settings.php:879 views/settings.php:895
+#: views/settings.php:912 views/settings.php:930
+msgid "Read"
+msgstr "Lexo"
+
+#: views/settings.php:866 views/settings.php:882 views/settings.php:898
+#: views/settings.php:915 views/settings.php:933
+msgid "Write"
+msgstr "Shëno"
+
+#: views/settings.php:872
+msgid "Privileges for Editor"
+msgstr "Privilegjet per Redaktorit"
+
+#: views/settings.php:888
+msgid "Privileges for Author"
+msgstr "Privilegjet per Autori"
+
+#: views/settings.php:904
+msgid "Privileges for Contributor"
+msgstr "Privilegjet per kontribues i"
+
+#: views/settings.php:921
+msgid "Privileges for Subscriber"
+msgstr "Privilegjet per Pajtimtarit"
+
+#: views/settings.php:943
+msgid "Lightbox Settings"
+msgstr "Kuti lehta Cilësimet"
+
+#: views/settings.php:955
+msgid "Lightbox Type"
+msgstr "Kuti të lehta -Lloji i"
+
+#: views/settings.php:1046
+msgid "Inline Background"
+msgstr " mundësinë Brendazi Sfondi"
+
+#: views/settings.php:1060
+msgid "Overlay Background"
+msgstr "Veshësh - Sfondi "
+
+#: views/settings.php:1074
+msgid "Fade In Time"
+msgstr "Zbehet- Në Kohë"
+
+#: views/settings.php:1083
+msgid "Fade Out Time"
+msgstr "Zbehet- Jashtë Koha"
+
+#: views/settings.php:1163
+msgid "Facebook Comments"
+msgstr "në Facebook Komentet"
+
+#: views/settings.php:1190
+msgid "Social Sharing"
+msgstr "Ndarja e Sociale"
+
+#: views/settings.php:1215
+msgid "Image Title"
+msgstr "Pamjeje për Titulli"
+
+#: views/settings.php:1239
+msgid "Image Description"
+msgstr "Pamjeje për përshkrim"
+
+#: views/settings.php:1265
+msgid "Front - End Layout Settings"
+msgstr "Frontit - Fundi faqosja Cilësimet"
+
+#: views/settings.php:1277
+msgid "Text for Back Button"
+msgstr "Tekst per Butonin Ktheh"
+
+#: views/settings.php:1287
+msgid "Button Color"
+msgstr "Butonin -Ngjyrë"
+
+#: views/settings.php:1300
+msgid "Button Text Color"
+msgstr "Butonin - Tekst  Ngjyrë"
+
+#: views/settings.php:1354
+msgid "Album Seperator"
+msgstr "Albumeve -  SEPERATOR"
+
+#: views/settings.php:1381
+msgid "Pagination Settings for Images"
+msgstr "Numërtim Cilësimet  per Imazhet"
+
+#: views/settings.php:1393
+msgid "Paging"
+msgstr "Radioje të kërkimit"
+
+#: views/settings.php:1420
+msgid "No. of Images Per Page "
+msgstr "Numri  imazhet për Faqe"
+
+#: views/settings.php:1432
+msgid "Slide Show Settings"
+msgstr "Diapozitivësh Shfaq Cilësimet"
+
+#: views/settings.php:1444
+msgid "Auto Play"
+msgstr "të Auto Luaj"
+
+#: views/settings.php:1471
+msgid "Interval"
+msgstr "Intervali "
+
+#: views/settings.php:1484
+msgid "Language Direction Settings"
+msgstr "Gjuha - Drejtimi-Cilësimet"
+
+#: views/settings.php:1496
+msgid "Language Direction"
+msgstr "Drejtimi Gjuha"
+
+#: views/settings.php:1653
+msgid "These features are only available in Premium Editions!"
+msgstr "Këto karakteristika janë në dispozicion vetëm në botimet Premium!"
+
+#: views/shortcode.php:29
+msgid "Gallery Bank Short-Codes"
+msgstr "Gallery Bank Të shkurtër-Kodet"
+
+#~ msgid " (Available only in Premium Editions)"
+#~ msgstr "Këto karakteristika janë në dispozicion vetëm në botimet Premium!"
+
+#~ msgid "Insert Gallery Bank Shortcode"
+#~ msgstr "shëno Gallery Bank -Shkurtër  Kod"
+
+#~ msgid "Select an album below to add it to your post or page."
+#~ msgstr ""
+#~ "Përzgjedh një album më poshtë për të shtuar atë në postin tuaj ose faqe."
+
+#~ msgid "Select Album Format"
+#~ msgstr "Përzgjidhni e albumeve Formati"
+
+#~ msgid "Select Album"
+#~ msgstr "Përzgjidhni e albumeve"
+
+#~ msgid "Select an Album"
+#~ msgstr "Përzgjidhni nje e albumeve"
+
+#~ msgid "Select Gallery Format "
+#~ msgstr "Përzgjidhni Galeri Formati"
+
+#~ msgid "Image Width"
+#~ msgstr "Gjerësia Imazh"
+
+#~ msgid "Select Format "
+#~ msgstr "Përzgjidhni Format i"
+
+#~ msgid "Please select an Album"
+#~ msgstr "Ju lutem, përzgjidhni një Albumi"
+
+#~ msgid "Please select an Album Format"
+#~ msgstr "Ju lutem, përzgjidhni te njieshim Formatin e Albumeve"
+
+#~ msgid "Please select a Gallery Images Format"
+#~ msgstr "Ju lutem, përzgjidhni një Galerinë- Imazhet- Formati"
+
+#~ msgid "Please select a Text Format for the Gallery"
+#~ msgstr "Ju lutem përzgjedh një Format tekst për Galerinë"
+
+#~ msgid "This feature is only available in Paid Premium Version!"
+#~ msgstr ""
+#~ "Ky tipar është vetëm - në dispozicion  në vitin Paguara - Primit - "
+#~ "Versioni!"
+
+#~ msgid " (Available in Premium Versions)"
+#~ msgstr "(Në dispozicion në Versione Primit)"
+
+#~ msgid "Default"
+#~ msgstr "e albumit"
+
+#~ msgid "Premium Pricing Plans"
+#~ msgstr " e primit Planet Caktimi i çmimeve"
+
+#~ msgid "Detailed Features"
+#~ msgstr "karakteristika e detajuara"
+
+#~ msgid "This Feature is only available in Paid Premium Version!"
+#~ msgstr ""
+#~ "Ky tipar është në dispozicion vetëm në vitin Paguara primit Versioni!"
+
+#~ msgid "Purchase Pro Version"
+#~ msgstr "Blerje Pro Versioni"
+
+#~ msgid "Save and Submit Changes"
+#~ msgstr "Ruaj dhe Paraqit ndryshimet"
+
+#~ msgid "Album Published. Kindly wait for the redirect to happen."
+#~ msgstr "albumit botuar. Mirësi të prisni për përcjellim të ndodhë."
+
+#~ msgid ""
+#~ "You will be only allowed to add 2 galleries. Kindly purchase Premium "
+#~ "Version for full access!"
+#~ msgstr ""
+#~ "Ju do të lejohet vetëm për të shtuar 2 galleries. Mirësi të blerë primit "
+#~ "Versioni për hyrje të plotë!"

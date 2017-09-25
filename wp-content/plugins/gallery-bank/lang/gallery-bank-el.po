@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery Bank\n"
+"POT-Creation-Date: 2017-02-16 13:20+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: front_views/gallery-bank-shortcode.php:10
+msgid "Gallery Type"
+msgstr "Τύπος Γκάλερι "
+
+#: front_views/gallery-bank-shortcode.php:12
+msgid "Albums with Images"
+msgstr "Αλμπουμ και Εικόνες"
+
+#: front_views/gallery-bank-shortcode.php:13
+msgid "Only Images"
+msgstr "Μόνο εικόνες"
+
+#: front_views/gallery-bank-shortcode.php:17
+msgid "Album Format"
+msgstr "Διάταξη του Άλμπουμ"
+
+#: front_views/gallery-bank-shortcode.php:25
+msgid "Choose Type"
+msgstr "Τύπος Γκάλερι "
+
+#: front_views/gallery-bank-shortcode.php:33
+msgid "Choose Albums"
+msgstr "Παρακαλώ Επιλέξτε"
+
+#: front_views/gallery-bank-shortcode.php:50
+msgid "Choose Album"
+msgstr "Παρακαλώ Επιλέξτε"
+
+#: front_views/gallery-bank-shortcode.php:85
+msgid "Gallery Format"
+msgstr "Διάταξη της Γκαλερή"
+
+#: front_views/gallery-bank-shortcode.php:95
+msgid "Text Format"
+msgstr "Διάταξη Κειμένου"
+
+#: front_views/gallery-bank-shortcode.php:105 views/album-sorting.php:190
+msgid "Albums in Row"
+msgstr "Άλμπουμ ανά σειρά"
+
+#: front_views/gallery-bank-shortcode.php:109 views/album-preview.php:50
+#: views/images-sorting.php:240
+msgid "Images in Row"
+msgstr "Εικόνες ανά Σειρά"
+
+#: front_views/gallery-bank-shortcode.php:114
+msgid "Animation Effects"
+msgstr "Κινούμενα Εφέ"
+
+#: front_views/gallery-bank-shortcode.php:119
+msgid "Special Effects"
+msgstr "Επιλογή Εφέ"
+
+#: front_views/gallery-bank-shortcode.php:130
+msgid "Display Images"
+msgstr "Εικόνες ανά Σειρά"
+
+#: front_views/gallery-bank-shortcode.php:136
+msgid "Sort By"
+msgstr "Ταξινόμηση κατά"
+
+#: front_views/gallery-bank-shortcode.php:148
+msgid "No. of Images"
+msgstr "Εικόνες ανά Σειρά"
+
+#: front_views/gallery-bank-shortcode.php:152
+msgid "Show Responsive Gallery"
+msgstr "Προβολή Προσαρμοζόμενης Γκαλερή"
+
+#: front_views/gallery-bank-shortcode.php:154
+msgid "Show Album Title"
+msgstr "Προβολή Τίτλου Άλμπουμ"
+
+#: front_views/gallery-bank-shortcode.php:159
+msgid "Insert Album"
+msgstr "Εισαγωγή Άλμπουμ"
+
+#: front_views/gallery-bank-shortcode.php:160
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: front_views/gallery-bank-shortcode.php:340
+msgid "Enter number of images you want to display."
+msgstr "Εισάγετε αριθμό των εικόνων που θέλετε να εμφανίσετε."
+
+#: gallery-bank.php:137 gallery-bank.php:213 gallery-bank.php:291
+msgid "<img src=\""
+msgstr ""
+
+#: gallery-bank.php:139 gallery-bank.php:215 gallery-bank.php:293
+msgid "/wp-admin/admin.php?page=gallery_bank"
+msgstr "/ Wp-admin / admin.php; Page \"= Γαλλερυ_trapezas"
+
+#: gallery-bank.php:146 gallery-bank.php:222 gallery-bank.php:300
+#: lib/gallery-bank-class.php:24 lib/gallery-bank-class.php:41
+#: lib/gallery-bank-class.php:58 views/header.php:305 views/header.php:319
+#: views/header.php:333
+msgid "Dashboard"
+msgstr "Πάνελ"
+
+#: gallery-bank.php:153 gallery-bank.php:229 gallery-bank.php:307
+#: lib/gallery-bank-class.php:25 lib/gallery-bank-class.php:42
+#: lib/gallery-bank-class.php:59 views/dashboard.php:339 views/header.php:306
+#: views/header.php:320 views/header.php:334
+msgid "Short-Codes"
+msgstr "Σύντομο-κώδικες"
+
+#: gallery-bank.php:160 gallery-bank.php:236 gallery-bank.php:314
+#: lib/gallery-bank-class.php:26 lib/gallery-bank-class.php:43
+#: lib/gallery-bank-class.php:60 views/header.php:307 views/header.php:321
+#: views/header.php:335
+msgid "Album Sorting"
+msgstr "Ταξινώμηση Άλμπουμ"
+
+#: gallery-bank.php:167 gallery-bank.php:243 gallery-bank.php:321
+#: lib/gallery-bank-class.php:27 lib/gallery-bank-class.php:44
+#: lib/gallery-bank-class.php:61 views/header.php:308 views/header.php:322
+#: views/header.php:336 views/settings.php:276
+msgid "Global Settings"
+msgstr "Γενικές Ρυθμήσεις"
+
+#: gallery-bank.php:174 gallery-bank.php:250 gallery-bank.php:328
+#: lib/gallery-bank-class.php:28 lib/gallery-bank-class.php:45
+#: lib/gallery-bank-class.php:62 views/automatic-plugin-update.php:28
+#: views/automatic-plugin-update.php:32
+msgid "Plugin Updates"
+msgstr "plugin Ενημερώσεις"
+
+#: gallery-bank.php:180 gallery-bank.php:257 gallery-bank.php:335
+#: lib/gallery-bank-class.php:29 lib/gallery-bank-class.php:46
+#: lib/gallery-bank-class.php:63 views/gallery-feedback.php:34
+msgid "Feature Requests"
+msgstr "αιτήσεις χαρακτηριστικό"
+
+#: gallery-bank.php:186 gallery-bank.php:264 gallery-bank.php:342
+#: lib/gallery-bank-class.php:30 lib/gallery-bank-class.php:47
+#: lib/gallery-bank-class.php:64 views/gallery-bank-system-report.php:29
+#: views/header.php:309 views/header.php:323
+msgid "System Status"
+msgstr "Κατάσταση Συστήματος "
+
+#: gallery-bank.php:193 gallery-bank.php:271 gallery-bank.php:349
+#: lib/gallery-bank-class.php:31 lib/gallery-bank-class.php:48
+#: lib/gallery-bank-class.php:65 views/header.php:197 views/header.php:310
+#: views/header.php:324 views/header.php:337
+msgid "Recommendations"
+msgstr "Συστάσεις"
+
+#: gallery-bank.php:200 gallery-bank.php:278 gallery-bank.php:356
+#: lib/gallery-bank-class.php:32 lib/gallery-bank-class.php:49
+#: lib/gallery-bank-class.php:66 views/header.php:311 views/header.php:325
+#: views/header.php:338 views/purchase_pro_version.php:29
+msgid "Premium Editions"
+msgstr "πριμοδότηση Εκδόσεις"
+
+#: gallery-bank.php:207 gallery-bank.php:285 gallery-bank.php:363
+#: lib/gallery-bank-class.php:33 lib/gallery-bank-class.php:50
+#: lib/gallery-bank-class.php:67 views/header.php:202 views/header.php:312
+#: views/header.php:326 views/header.php:339 views/other-services.php:29
+msgid "Our Other Services"
+msgstr "Άλλο μας Υπηρεσίες"
+
+#: gallery-bank.php:376
+msgid "View Gallery Bank Documentation"
+msgstr "Προβολή Γκαλερί Τράπεζα Τεκμηρίωση"
+
+#: gallery-bank.php:376
+msgid "Docs"
+msgstr "τα Έγγραφα"
+
+#: gallery-bank.php:377
+msgid "View Gallery Bank Premium Editions"
+msgstr "Προβολή Γκαλερί Τράπεζα πριμοδότηση Εκδόσεις"
+
+#: gallery-bank.php:377
+msgid "Go for Premium!"
+msgstr "Πηγαίνετε για ασφάλιστρο!"
+
+#: lib/add-new-album-class.php:144 views/edit-album.php:355
+#: views/edit-album.php:362
+msgid " Set as Album Cover"
+msgstr "Χρήση ως Εξώφυλλο για το Άλμπουμ"
+
+#: lib/add-new-album-class.php:146 views/edit-album.php:303
+#: views/edit-album.php:368
+msgid "Enter your Title"
+msgstr "Εισάγετε τον Τίτλο σας"
+
+#: lib/add-new-album-class.php:147 views/edit-album.php:308
+#: views/edit-album.php:373
+msgid "Enter your Description "
+msgstr "Εισάγετε την Περιγραφή σας"
+
+#: lib/add-new-album-class.php:149 views/edit-album.php:314
+#: views/edit-album.php:379
+msgid "Enter your Tags"
+msgstr "Εισάγετε Ετικέτες"
+
+#: lib/add-new-album-class.php:153 views/edit-album.php:400
+msgid "Delete Image"
+msgstr "Διαγραφή Εικόνας"
+
+#: lib/gallery-bank-class.php:23 lib/gallery-bank-class.php:40
+#: lib/gallery-bank-class.php:57 views/header.php:293
+msgid "Gallery Bank"
+msgstr "Gallery Bank"
+
+#: lib/gallery-bank-class.php:584
+msgid "Add Gallery using Gallery Bank"
+msgstr "Προσθήκη Γκαλερί με την Χρήση του Gallery Bank"
+
+#: views/album-preview.php:34
+msgid "Album Preview"
+msgstr "Προεπισκόπηση Άλμπουμ"
+
+#: views/album-preview.php:37 views/album-sorting.php:158
+#: views/edit-album.php:161 views/edit-album.php:424
+#: views/gallery-feedback.php:37 views/images-sorting.php:202
+#: views/other-services.php:33 views/purchase_pro_version.php:33
+#: views/settings.php:279 views/shortcode.php:33
+msgid "Back to Albums"
+msgstr "Πίσω στα Άλμπυομ"
+
+#: views/album-preview.php:55 views/album-sorting.php:195
+#: views/images-sorting.php:244
+msgid "Please Choose"
+msgstr "Παρακαλώ Επιλέξτε"
+
+#: views/album-sorting.php:154
+msgid "Re-Order Albums"
+msgstr "Επαναδιατάξτε τα Άλμπουμ"
+
+#: views/album-sorting.php:160 views/images-sorting.php:204
+msgid "Update Order"
+msgstr "Ενημέρωση της Διάταξης"
+
+#: views/album-sorting.php:163 views/images-sorting.php:207
+msgid "Sorting Order has been updated."
+msgstr "Η Σειρά Διάταξης Ενημερώθηκε"
+
+#: views/album-sorting.php:275 views/dashboard.php:487 views/dashboard.php:491
+#: views/dashboard.php:495 views/edit-album.php:617 views/edit-album.php:637
+#: views/images-sorting.php:308
+msgid "This feature is only available in Premium Editions!"
+msgstr "Αυτή η δυνατότητα είναι διαθέσιμη μόνο σε Premium Εκδόσεις!"
+
+#: views/automatic-plugin-update.php:35 views/settings.php:752
+#: views/settings.php:760 views/settings.php:1170 views/settings.php:1178
+#: views/settings.php:1196 views/settings.php:1203 views/settings.php:1221
+#: views/settings.php:1228 views/settings.php:1245 views/settings.php:1252
+#: views/settings.php:1360 views/settings.php:1367 views/settings.php:1400
+#: views/settings.php:1408 views/settings.php:1451 views/settings.php:1459
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: views/automatic-plugin-update.php:36 views/settings.php:755
+#: views/settings.php:763 views/settings.php:1173 views/settings.php:1181
+#: views/settings.php:1198 views/settings.php:1206 views/settings.php:1223
+#: views/settings.php:1230 views/settings.php:1247 views/settings.php:1254
+#: views/settings.php:1362 views/settings.php:1370 views/settings.php:1403
+#: views/settings.php:1411 views/settings.php:1454 views/settings.php:1462
+msgid "Disable"
+msgstr "Απενεργοποιήστε την"
+
+#: views/dashboard.php:290 views/edit-album.php:203
+#, php-format
+msgid ""
+"<b>Notice:</b> Your server allows you to upload <b>%s</b> files of maximum "
+"total <b>%s</b> bytes and allows <b>%s</b> seconds to complete."
+msgstr ""
+
+#: views/dashboard.php:291 views/edit-album.php:204
+msgid ""
+"<br />If your request exceeds these limitations, it will fail, probably "
+"without an errormessage."
+msgstr ""
+
+#: views/dashboard.php:292 views/edit-album.php:205
+msgid ""
+"<br />Additionally your hosting provider may have set other limitations on "
+"uploading files."
+msgstr ""
+
+#: views/dashboard.php:303
+msgid "Gallery Bank Dashboard"
+msgstr "Gallery Bank Ταμπλό"
+
+#: views/dashboard.php:314
+msgid "Add New Album"
+msgstr "Προσθήκη Νέου Άλμπουμ"
+
+#: views/dashboard.php:320
+msgid "Delete All Albums"
+msgstr "Διαγραφή Όλων των Άλμπουμ"
+
+#: views/dashboard.php:321
+msgid "Purge Images & Albums"
+msgstr "Καθαρησμός Εικόνων και Άλμπουμ"
+
+#: views/dashboard.php:322
+msgid "Restore Factory Settings"
+msgstr "Επαναφορά Εργοστασιακών Ρυθμίσεων"
+
+#: views/dashboard.php:329
+msgid "Existing Albums Overview"
+msgstr "Προεπισκόπηση Υπάχων Άλμπουμ"
+
+#: views/dashboard.php:335 views/edit-album.php:262
+msgid "Thumbnail"
+msgstr "Μικρογραγία"
+
+#: views/dashboard.php:336
+msgid "Title"
+msgstr "Τίτλος"
+
+#: views/dashboard.php:337
+msgid "Total Images"
+msgstr "Συνολικές Εικόνες"
+
+#: views/dashboard.php:338
+msgid "Date"
+msgstr "ημερομηνία"
+
+#: views/dashboard.php:403
+msgid "Edit Album"
+msgstr "Eπεξεργασία Άλμπουμ"
+
+#: views/dashboard.php:408 views/images-sorting.php:198
+msgid "Re-Order Images"
+msgstr "Επανα-Οργάνωση Εικόνων"
+
+#: views/dashboard.php:413
+msgid "Preview Album"
+msgstr "Προεπισκόπηση Άλμπουμ"
+
+#: views/dashboard.php:418
+msgid "Delete Album"
+msgstr "Διαγραφή Άλμπουμ"
+
+#: views/dashboard.php:474
+msgid "Are you sure you want to delete this Album?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτό το Άλμπουμ;"
+
+#: views/edit-album.php:158
+msgid "Album"
+msgstr "Άλμπουμ"
+
+#: views/edit-album.php:162 views/edit-album.php:423
+msgid "Save Album"
+msgstr "Αποθήκευση Άλμπουμ"
+
+#: views/edit-album.php:166
+msgid "Album Saved. Kindly wait for the redirect to happen."
+msgstr ""
+"Άλμπουμ Αποθηκεύτηκε. ευγενικά περιμένετε για η ανακατευθύνουν να συμβεί."
+
+#: views/edit-album.php:173
+msgid "Album Details"
+msgstr "Λεπτομέριες του Άλμπουμ"
+
+#: views/edit-album.php:177
+msgid "Album Title"
+msgstr "Τίτλος Άλμπουμ"
+
+#: views/edit-album.php:182
+msgid "Enter your Album Title"
+msgstr "Εισάγετε τον Τίτλο του Άλμπουμ"
+
+#: views/edit-album.php:189
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: views/edit-album.php:213
+msgid "Upload Images"
+msgstr "Ανέβασμα Εικόνων"
+
+#: views/edit-album.php:216
+msgid "Your browser doesn\"t have Flash, Silverlight or HTML5 support."
+msgstr ""
+"Ο Browser σας δεν έχει εγκατεστημένο το Flash, Silverlight ή δεν υποστηρίζει "
+"HTML5"
+
+#: views/edit-album.php:223
+msgid "Upload Videos"
+msgstr "Ανέβασμα Βίντεο"
+
+#: views/edit-album.php:224 views/edit-album.php:269 views/settings.php:288
+#: views/settings.php:504 views/settings.php:734 views/settings.php:845
+#: views/settings.php:944 views/settings.php:1266 views/settings.php:1382
+#: views/settings.php:1433 views/settings.php:1485
+msgid " (Available in Premium Editions)"
+msgstr "(Διατίθεται σε εκδόσεις Premium)"
+
+#: views/edit-album.php:229
+msgid "Video Url"
+msgstr "Διεύθυνση URL του Βίντεο"
+
+#: views/edit-album.php:233
+msgid "Enter your Video Url"
+msgstr "Εισάγετε την Διεύθυνση URL του Βίντεο"
+
+#: views/edit-album.php:239
+msgid "Upload Video"
+msgstr "Ανέβασμα Βίντεο"
+
+#: views/edit-album.php:250
+msgid "Your Gallery Bank Album"
+msgstr "Το Gallery Bank Άλμπουμ σου"
+
+#: views/edit-album.php:259
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: views/edit-album.php:265
+msgid "Title & Description"
+msgstr "Τίτλος και Περιγραφή"
+
+#: views/edit-album.php:268
+msgid "Tags (comma separated list)"
+msgstr "Ετικέτες (διαχωρισμός με κόμμα)"
+
+#: views/edit-album.php:272
+msgid "Url to Redirect on click of an Image"
+msgstr "URL για επαναπροσδιορισμό"
+
+#: views/edit-album.php:324
+msgid "Delete Video"
+msgstr "Διαγραφή Βίντεο"
+
+#: views/edit-album.php:604
+msgid "Are you sure you want to delete this Image?"
+msgstr "Είστε σίγουρος οτί θέλετε να διαγράψετε αυτήν την εικόνα;"
+
+#: views/gallery-bank-system-report.php:32
+msgid "Get System Report"
+msgstr "Αποκτήστε Σύστημα 'Έκθεση"
+
+#: views/gallery-bank-system-report.php:36
+msgid "Close System Report"
+msgstr "Κλείσιμο Σύστημα Έκθεση"
+
+#: views/gallery-feedback.php:41
+msgid "Email has been sent successfully."
+msgstr "Email έχει στείλετε με επιτυχία."
+
+#: views/gallery-feedback.php:48 views/gallery-feedback.php:64
+msgid "Feature Requests / Suggestions"
+msgstr "Αιτήματα χαρακτηριστικό / Προτάσεις"
+
+#: views/gallery-feedback.php:52
+msgid "Name"
+msgstr "Όνομα"
+
+#: views/gallery-feedback.php:54
+msgid "Enter your Name"
+msgstr "Πληκτρολογήστε το Το όνομά σας"
+
+#: views/gallery-feedback.php:58
+msgid "Email Id"
+msgstr "ταυτότητα ηλεκτρονικού ταχυδρομείου"
+
+#: views/gallery-feedback.php:60
+msgid "Enter your Email Address"
+msgstr "Εισάγετε το email σας"
+
+#: views/gallery-feedback.php:66
+msgid "Enter your Feature Requests / Suggestions"
+msgstr "Εισάγετε σας αιτήματα χαρακτηριστικό / Προτάσεις"
+
+#: views/gallery-feedback.php:71
+msgid "Send"
+msgstr "Στείλτε"
+
+#: views/header.php:59
+#, php-format
+msgid ""
+"Based on your server memory limit you should not upload images larger then "
+"<strong>%d x %d (%2.1f MP)</strong>"
+msgstr ""
+
+#: views/header.php:134
+msgid "Get Started"
+msgstr "πάρτε αρχισμένος"
+
+#: views/header.php:137
+msgid "Watch Gallery Video!"
+msgstr "ρολόι στοά βίντεο!"
+
+#: views/header.php:141
+msgid "read documentation here"
+msgstr "διαβάστε τα έγγραφα τεκμηρίωσης εδώ"
+
+#: views/header.php:146
+msgid "Go Premium"
+msgstr "Μετάβαση πριμοδότηση"
+
+#: views/header.php:150
+msgid "Features"
+msgstr "Δυνατότητες"
+
+#: views/header.php:155
+msgid "Online Demos"
+msgstr "Συνδεδεμένοι παραδείγματα"
+
+#: views/header.php:160
+msgid "Pricing Plans"
+msgstr "Προγράμματα τιμολόγησης"
+
+#: views/header.php:167
+msgid "Knowledge Base"
+msgstr "Γνωσιακή Βάση"
+
+#: views/header.php:172
+msgid "Support Forum"
+msgstr "Φόρουμ υποστήριξης"
+
+#: views/header.php:177
+msgid "FAQ's"
+msgstr "Συχνές Ερωτήσεις"
+
+#: views/header.php:182
+msgid "Renew Premium Support"
+msgstr "Ανανεώστε Premium Support"
+
+#: views/header.php:188
+msgid "More Actions"
+msgstr "Περισσότερες ενέργειες"
+
+#: views/header.php:192
+msgid "Plugin Customization"
+msgstr "plugin παραμετροποίηση"
+
+#: views/header.php:226 views/header.php:257
+msgid ""
+"There is a serious misconfiguration in your servers PHP config. Function "
+"imagecreatefromjpeg() does not exist. You will encounter problems when "
+"uploading photos and not be able to generate thumbnail images. Ask your "
+"hosting provider to add GD support with a minimal version 1.8."
+msgstr ""
+
+#: views/header.php:232 views/header.php:237 views/header.php:263
+#: views/header.php:268
+msgid "unknown"
+msgstr ""
+
+#: views/purchase_pro_version.php:38
+msgid "WP Gallery Bank is an one time Investment. Its Worth it!"
+msgstr "WP Γκαλερί Τράπεζα είναι ενός- χρόνος Επενδύσεων. Αξίζει τον κόπο!"
+
+#: views/recommended-plugins.php:67
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: views/recommended-plugins.php:135
+msgid "More Details"
+msgstr ""
+
+#: views/recommended-plugins.php:146
+msgid "Install Now"
+msgstr ""
+
+#: views/recommended-plugins.php:153
+msgid "Update Now"
+msgstr ""
+
+#: views/recommended-plugins.php:281
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+#: views/recommended-plugins.php:285
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: views/recommended-plugins.php:289
+msgid "Compatible with your version of WordPress"
+msgstr ""
+
+#: views/settings.php:280
+msgid "Update Settings"
+msgstr "Ενημέρωση Ρυθμίσεις"
+
+#: views/settings.php:287
+msgid "Thumbnail Settings"
+msgstr "Μικρογραφία Ρυθμίσεις"
+
+#: views/settings.php:299
+msgid "Thumbnail Size"
+msgstr "Μικρογραφία Μέγεθος"
+
+#: views/settings.php:306 views/settings.php:314 views/settings.php:522
+#: views/settings.php:530
+msgid "Original"
+msgstr "Πρωτότυπη"
+
+#: views/settings.php:309 views/settings.php:317 views/settings.php:525
+#: views/settings.php:533
+msgid "Custom"
+msgstr "Προσαρμοσμένη"
+
+#: views/settings.php:326 views/settings.php:542
+msgid "Width"
+msgstr "Πάχος"
+
+#: views/settings.php:336 views/settings.php:552
+msgid "Height"
+msgstr "Ύψος"
+
+#: views/settings.php:348 views/settings.php:563 views/settings.php:985
+msgid "Opacity"
+msgstr "Αδιαφάνεια"
+
+#: views/settings.php:360 views/settings.php:575 views/settings.php:996
+msgid "Border Size"
+msgstr "συνόρων Μέγεθος"
+
+#: views/settings.php:371 views/settings.php:587 views/settings.php:1007
+msgid "Border Radius"
+msgstr "συνόρων Ακτίνα"
+
+#: views/settings.php:382 views/settings.php:599 views/settings.php:1032
+msgid "Border Color"
+msgstr "συνόρων Χρώμα"
+
+#: views/settings.php:396
+msgid "Margin Between Images"
+msgstr "περιθώριο μεταξύ εικόνες"
+
+#: views/settings.php:406 views/settings.php:633 views/settings.php:1018
+msgid "Text Color"
+msgstr "κείμενο Χρώμα"
+
+#: views/settings.php:420 views/settings.php:650 views/settings.php:1092
+msgid "Text-Align"
+msgstr "κείμενο-Ευθυγραμμίστε"
+
+#: views/settings.php:434 views/settings.php:664 views/settings.php:801
+#: views/settings.php:1106 views/settings.php:1314
+msgid "Font-Family"
+msgstr "γραμματοσειράς - Οικογένεια"
+
+#: views/settings.php:457 views/settings.php:687 views/settings.php:1129
+msgid "Heading Font-Size"
+msgstr "Η κλάση γραμματοσειράς - Μέγεθος"
+
+#: views/settings.php:474 views/settings.php:704 views/settings.php:1146
+msgid "Text Font-Size"
+msgstr "κείμενο γραμματοσειράς - Μέγεθος"
+
+#: views/settings.php:491 views/settings.php:721
+msgid "Description Length"
+msgstr "Περιγραφή Μήκος"
+
+#: views/settings.php:503
+msgid "Album Cover Settings"
+msgstr "Άλμπουμ Κάλυμμα Ρυθμίσεις"
+
+#: views/settings.php:515
+msgid "Cover Size"
+msgstr "Κάλυμμα    Μέγεθος"
+
+#: views/settings.php:613
+msgid "Margin Between Albums"
+msgstr "περιθώριο   μεταξύ  Άλμπουμ"
+
+#: views/settings.php:623
+msgid "Text for Album Click"
+msgstr "κείμενο για- Άλμπουμ Κάντε κλικ"
+
+#: views/settings.php:733
+msgid "Filter Settings"
+msgstr "Φίλτρο Ρυθμίσεις"
+
+#: views/settings.php:745
+msgid "Filters"
+msgstr "Φίλτρα"
+
+#: views/settings.php:773
+msgid "Filter Color"
+msgstr "Φίλτρο Χρώμα"
+
+#: views/settings.php:787
+msgid "Filter Text Color"
+msgstr "Φίλτρο κείμενο Χρώμα"
+
+#: views/settings.php:824 views/settings.php:1337
+msgid "Font-Size"
+msgstr "γραμματοσειράς - Μέγεθος"
+
+#: views/settings.php:844
+msgid "Roles & Capabilities"
+msgstr "Ρόλοι & Δυνατοτήτων"
+
+#: views/settings.php:856
+msgid "Privileges for Admin"
+msgstr "Προνόμια για Υποστηρικτικοί"
+
+#: views/settings.php:860 views/settings.php:876 views/settings.php:892
+#: views/settings.php:909 views/settings.php:927
+msgid "Full Control"
+msgstr "Πλήρης έλεγχος"
+
+#: views/settings.php:863 views/settings.php:879 views/settings.php:895
+#: views/settings.php:912 views/settings.php:930
+msgid "Read"
+msgstr "Διαβάστε"
+
+#: views/settings.php:866 views/settings.php:882 views/settings.php:898
+#: views/settings.php:915 views/settings.php:933
+msgid "Write"
+msgstr "Γράψε"
+
+#: views/settings.php:872
+msgid "Privileges for Editor"
+msgstr "Προνόμια 'για- Επεξεργαστής"
+
+#: views/settings.php:888
+msgid "Privileges for Author"
+msgstr "Προνόμια' για Συγγραφέας"
+
+#: views/settings.php:904
+msgid "Privileges for Contributor"
+msgstr "Προνόμια' για Συντελεστής"
+
+#: views/settings.php:921
+msgid "Privileges for Subscriber"
+msgstr "Προνόμια' για Συνδρομητής"
+
+#: views/settings.php:943
+msgid "Lightbox Settings"
+msgstr "φωτεινά κουτιά - Ρυθμίσεις"
+
+#: views/settings.php:955
+msgid "Lightbox Type"
+msgstr "φωτεινά κουτι ,Τύπος"
+
+#: views/settings.php:1046
+msgid "Inline Background"
+msgstr "σε γραμμή  - Υπόβαθρο"
+
+#: views/settings.php:1060
+msgid "Overlay Background"
+msgstr "Υπέρθεση Υπόβαθρο"
+
+#: views/settings.php:1074
+msgid "Fade In Time"
+msgstr "εξασθένησης της πέδησης Σε Ώρα"
+
+#: views/settings.php:1083
+msgid "Fade Out Time"
+msgstr "εξασθένησης της πέδησης Εξαντλήθηκε Ώρα"
+
+#: views/settings.php:1163
+msgid "Facebook Comments"
+msgstr "πρόσωπο-βιβλίο  Σχόλια"
+
+#: views/settings.php:1190
+msgid "Social Sharing"
+msgstr "Κοινωνικές   Κοινή χρήση"
+
+#: views/settings.php:1215
+msgid "Image Title"
+msgstr "Τίτλος εικόνας"
+
+#: views/settings.php:1239
+msgid "Image Description"
+msgstr "εικόνα   Περιγραφή"
+
+#: views/settings.php:1265
+msgid "Front - End Layout Settings"
+msgstr "Εμπρός - τέλος / διαρρύθμιση Ρυθμίσεις"
+
+#: views/settings.php:1277
+msgid "Text for Back Button"
+msgstr "κείμενο    για    Πίσω  Κουμπί"
+
+#: views/settings.php:1287
+msgid "Button Color"
+msgstr "Κουμπί   Χρώμα"
+
+#: views/settings.php:1300
+msgid "Button Text Color"
+msgstr "Κουμπί  κείμενο    Χρώμα"
+
+#: views/settings.php:1354
+msgid "Album Seperator"
+msgstr "Άλμπουμ διαχωριστή"
+
+#: views/settings.php:1381
+msgid "Pagination Settings for Images"
+msgstr "τη σελιδοποίηση Ρυθμίσεις για εικόνες"
+
+#: views/settings.php:1393
+msgid "Paging"
+msgstr "τηλεειδοποίηση"
+
+#: views/settings.php:1420
+msgid "No. of Images Per Page "
+msgstr "Αριθμός Εικόνες ανά σελίδα"
+
+#: views/settings.php:1432
+msgid "Slide Show Settings"
+msgstr "διαφανειών Εμφάνιση Ρυθμίσεις"
+
+#: views/settings.php:1444
+msgid "Auto Play"
+msgstr "Αυτόματη Αναπαραγωγή"
+
+#: views/settings.php:1471
+msgid "Interval"
+msgstr "Χρονικό διάστημα"
+
+#: views/settings.php:1484
+msgid "Language Direction Settings"
+msgstr "γλώσσα  ,Σκηνοθεσία Ρυθμίσεις"
+
+#: views/settings.php:1496
+msgid "Language Direction"
+msgstr "γλώσσα Κατεύθυνση"
+
+#: views/settings.php:1653
+msgid "These features are only available in Premium Editions!"
+msgstr "Τα χαρακτηριστικά αυτά διατίθενται μόνο στις εκδόσεις Premium!"
+
+#: views/shortcode.php:29
+msgid "Gallery Bank Short-Codes"
+msgstr "Gallery Bank Σύντομο-κώδικες"
+
+#~ msgid " (Available only in Premium Editions)"
+#~ msgstr "Αυτή η δυνατότητα είναι διαθέσιμη μόνο σε Premium Εκδόσεις!"
+
+#~ msgid "Insert Gallery Bank Shortcode"
+#~ msgstr "Καταχωρήστε τον σύντομο κώδικα Gallery Bank"
+
+#~ msgid "Select an album below to add it to your post or page."
+#~ msgstr ""
+#~ "Επιλέξτε ένα άλμπουμ απο τα παρακάτω για την προσθήκη του στην σελίδα "
+
+#~ msgid "Select Album Format"
+#~ msgstr "Επιλέξτε Διάταξη για το Άλμπουμ"
+
+#~ msgid "Select Album"
+#~ msgstr "Επιλέξτε Άλμπουμ"
+
+#~ msgid "Select an Album"
+#~ msgstr "Επιλέξτε ένα Άλμπουμ"
+
+#~ msgid "Select Gallery Format "
+#~ msgstr "Επιλέξτε Τύπο Γκαλερή"
+
+#~ msgid "Image Width"
+#~ msgstr "Πάχος Εικόνας"
+
+#~ msgid "Select Format "
+#~ msgstr "Επιλογή Διάταξης"
+
+#~ msgid "Please select an Album"
+#~ msgstr "Παρακαλώ Επιλέξτε Ένα Άλμπουμ"
+
+#~ msgid "Please select an Album Format"
+#~ msgstr "Παρακαλώ Επιλέξτε Ένα Τύπο Διάταξης"
+
+#~ msgid "Please select a Gallery Images Format"
+#~ msgstr "Παρακαλώ Επιλέξτε Διάταξη Εικόνων για την Γκαλερί"
+
+#~ msgid "Please select a Text Format for the Gallery"
+#~ msgstr "Παρακαλώ Επιλέξτε Διάταξη Κειμένου για την Γκαλερί"
+
+#~ msgid "This feature is only available in Paid Premium Version!"
+#~ msgstr ""
+#~ "Αυτή η λειτουργία είναι διαθέσιμη μόνο στην Αμειβόμενος Πριμοδοτήσεως "
+#~ "Εκδοχή!"
+
+#~ msgid " (Available in Premium Versions)"
+#~ msgstr "(Διαθέσιμο στην Πριμοδοτήσεως εκδόσεις)"
+
+#~ msgid "Default"
+#~ msgstr "προεπιλογή"
+
+#~ msgid "Premium Pricing Plans"
+#~ msgstr "πριμοδότηση σχέδια τιμολόγησης"
+
+#~ msgid "Detailed Features"
+#~ msgstr "Λεπτομερή Χαρακτηριστικά"
+
+#~ msgid "This Feature is only available in Paid Premium Version!"
+#~ msgstr ""
+#~ "Αυτό το χαρακτηριστικό είναι διαθέσιμο μόνο σε Αμειβόμενος πριμοδότηση "
+#~ "έκδοσης!"
+
+#~ msgid "Purchase Pro Version"
+#~ msgstr "Αγορά Pro Εκδοχή"
+
+#~ msgid "VIEW ALL"
+#~ msgstr "ΠΡΟΒΟΛΗ ΟΛΩΝ"
+
+#~ msgid "Licensing"
+#~ msgstr "Αδιοδώτηση"
+
+#~ msgid "Select Gallery"
+#~ msgstr "Επιλογή Γκαλερί"
+
+#~ msgid "Select Gallery Format"
+#~ msgstr "Επιλέξτε Διάταξη Γκαλερί"
+
+#~ msgid "Images In Row"
+#~ msgstr "Εικόνες ανά Σειρά"
+
+#~ msgid "Select Text Format"
+#~ msgstr "Επιλογή Διάταξη κειμένου"
+
+#~ msgid "Special Effect"
+#~ msgstr "Ειδικά Εφέ"
+
+#~ msgid "Select Special Effect"
+#~ msgstr "Επιλογή Ειδικών Εφέ"
+
+#~ msgid "Animation Effect"
+#~ msgstr "Εφέ Κίνησης"
+
+#~ msgid "Responsive Gallery"
+#~ msgstr "Επαναπροσαρμοζούμενη Γκαλερί"
+
+#~ msgid "Save and Submit Changes"
+#~ msgstr "Αποθήκευση και Καταχώρηση Αλαγών"
+
+#~ msgid "Album Published. Kindly wait for the redirect to happen."
+#~ msgstr "Το Άλμπουμ σας Εκδόθηκε. Παρακαλώ για την "
+
+#~ msgid "Are you sure you want to delete these Images?"
+#~ msgstr "Είστε σίγουρος οτί θέλετε να διαγράψετε αυτήν την εικόνα;"
+
+#~ msgid "Attention! A new vesion of Gallery Bank is available for download."
+#~ msgstr ""
+#~ "ΠΡΟΣΟΧΗ! Μια νέα έκδοση του Gallery Bank είναι Διαθέσημη για Κατέβασμα"
+
+#~ msgid "Click"
+#~ msgstr "Κάντε Κλικ"
+
+#~ msgid "here"
+#~ msgstr "Εδώ"
+
+#~ msgid "to upgrade your version of Gallery Bank."
+#~ msgstr "για αναβάθμηση της έκδωσης του Gallery Bank"
+
+#~ msgid "Dashboard - Gallery Bank"
+#~ msgstr "Πάνελ - Gallery Bank"
+
+#~ msgid "Date of Creation"
+#~ msgstr "Ημερομηνία Δημιουργίας"
+
+#~ msgid "Are you sure you want to delete all Albums?"
+#~ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε όλα τα Άλμπουμ;"
+
+#~ msgid "Are you sure you want to Restore Factory Settings?"
+#~ msgstr ""
+#~ "Είστε σίγουρος ότι θέλετε να επαναφέρετε τις εργοστασιακές ρυθμίσεις;"
+
+#~ msgid "Are you sure you want to Purge all Images & Albums?"
+#~ msgstr ""
+#~ "αποτελούν  σας βέβαιος σας θέλουν να Εκκαθάριση όλα τις Εικόνες & "
+#~ "Άλμπουμς;"
+
+#~ msgid "Update Album"
+#~ msgstr "Ενημέρωση 'Αλμπουμ"
+
+#~ msgid "Album Updated. Kindly wait for the redirect to happen."
+#~ msgstr ""
+#~ "Άλμπουμ ενημερώνονται . ευγενικά περιμένετε για η ανακατευθύνουν να "
+#~ "συμβεί."
+
+#~ msgid "Gallery Bank Licensing Module"
+#~ msgstr "Γκαλερί  -Τράπεζα  Αδειοδότηση δομοστοιχείο"
+
+#~ msgid "Success! Settings have been updated."
+#~ msgstr "Επιτυχία! Ρυθμίσεις έχουν ήταν ενημερωμένο."
+
+#~ msgid "Update"
+#~ msgstr "Ενημέρωση"
+
+#~ msgid "Restore Settings"
+#~ msgstr "Επαναφορά του Ρυθμίσεις"
+
+#~ msgid "Settings has been updated."
+#~ msgstr "Ρυθμίσεις έχει ήταν ενημερωμένο."
+
+#~ msgid "Success! Settings have been restored."
+#~ msgstr "Επιτυχία! Ρυθμίσεις έχουν ήταν αποκατασταθεί."
+
+#~ msgid "Are you sure you want to restore settings?"
+#~ msgstr "είναι σας βέβαιος σας θέλουν να αποκατάσταση της ρυθμίσεις;"
+
+#~ msgid " Rotate Image"
+#~ msgstr "Περιστροφή  εικόνα"
+
+#~ msgid "Upload Images "
+#~ msgstr "Ανεβάστε ,εικόνες"
+
+#~ msgid "Your Wordpress Version doesn\"t support Wp-media."
+#~ msgstr "σας Ωορδπρεσς  Έκδοση κάνει δεν υποστήριξη Wp-μέσων."
+
+#~ msgid "Upload Thumbnails "
+#~ msgstr "Ανεβάστε μικρογραφίες"
+
+#~ msgid "Show Albums"
+#~ msgstr "Εμφάνιση   λευκώματα"
+
+#~ msgid "Responsive"
+#~ msgstr "Κατανοητή"
+
+#~ msgid "With Albums in Row"
+#~ msgstr "με των  άλμπουμ / σε Η σειρά"
+
+#~ msgid "Image Uploader Settings"
+#~ msgstr "εικόνα  Μεταφορτωτή Ρυθμίσεις"
+
+#~ msgid "Uploader for Images"
+#~ msgstr "Μεταφορτωτή για εικόνες"
+
+#~ msgid "WP Media"
+#~ msgstr "WP ,Μέσων Ενημέρωσης"
+
+#~ msgid "Change Uploading Image Name"
+#~ msgstr "Αλλαγή φορτώνω , εικόνα όνομα"
+
+#~ msgid "Image url location"
+#~ msgstr "εικόνα,  URL τοποθεσία"
+
+#~ msgid "Open in New Window"
+#~ msgstr "Άνοιγμα σε Νέα Παράθυρο"
+
+#~ msgid "Same Window"
+#~ msgstr "ίδιο παράθυρο"
